@@ -1,0 +1,871 @@
+
+###  http://sparql.ilch.uminho.pt/minors#keyword-aborto
+:keyword-aborto rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "aborto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-crime
+:keyword-crime rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "crime"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-direitos
+:keyword-direitos rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "direitos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-morte
+:keyword-morte rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "morte"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-trabalhador
+:keyword-trabalhador rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "trabalhador"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homens
+:keyword-homens rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homens"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-guerra
+:keyword-guerra rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "guerra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-filha
+:keyword-filha rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "filha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-africano
+:keyword-africano rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "africano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-lei
+:keyword-lei rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "lei"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-escola
+:keyword-escola rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "escola"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-humanos
+:keyword-humanos rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "humanos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homicídio
+:keyword-homicídio rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homicídio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-violência
+:keyword-violência rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "violência"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-imigração
+:keyword-imigração rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "imigração"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cultura
+:keyword-cultura rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cultura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-suicídio
+:keyword-suicídio rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "suicídio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-exclusão
+:keyword-exclusão rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "exclusão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-campo
+:keyword-campo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "campo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-concentração
+:keyword-concentração rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "concentração"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-filho
+:keyword-filho rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "filho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-tribunal
+:keyword-tribunal rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "tribunal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-educação
+:keyword-educação rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "educação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-ataque
+:keyword-ataque rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "ataque"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-mulher
+:keyword-mulher rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "mulher"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-rainha
+:keyword-rainha rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "rainha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-prisão
+:keyword-prisão rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "prisão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-fome
+:keyword-fome rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "fome"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-ajuda
+:keyword-ajuda rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "ajuda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-mantimentos
+:keyword-mantimentos rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "mantimentos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-negro
+:keyword-negro rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "negro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homem
+:keyword-homem rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homem"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-racismo
+:keyword-racismo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "racismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-carne
+:keyword-carne rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "carne"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-comunidade
+:keyword-comunidade rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "comunidade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-porco
+:keyword-porco rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "porco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-adolescente
+:keyword-adolescente rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "adolescente"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-social
+:keyword-social rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "social"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-prostituição
+:keyword-prostituição rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "prostituição"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-consumo
+:keyword-consumo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "consumo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-violação
+:keyword-violação rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "violação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-criança
+:keyword-criança rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "criança"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-doença
+:keyword-doença rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "doença"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-sexo
+:keyword-sexo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "sexo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-igualdade
+:keyword-igualdade rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "igualdade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-medo
+:keyword-medo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "medo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-género
+:keyword-género rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "género"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-estudo
+:keyword-estudo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "estudo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-espécie
+:keyword-espécie rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "espécie"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-sexual
+:keyword-sexual rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "sexual"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-minoria
+:keyword-minoria rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "minoria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-mulheres
+:keyword-mulheres rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "mulheres"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-maustratos
+:keyword-maustratos rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "maus-tratos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-doméstica
+:keyword-doméstica rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "doméstica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-corpo
+:keyword-corpo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "corpo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cigano
+:keyword-cigano rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cigano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-pobreza
+:keyword-pobreza rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "pobreza"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-extinção
+:keyword-extinção rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "extinção"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vaca
+:keyword-vaca rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vaca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-desemprego
+:keyword-desemprego rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "desemprego"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-princesa
+:keyword-princesa rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "princesa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-assassinato
+:keyword-assassinato rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "assassinato"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-sexualidade
+:keyword-sexualidade rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "sexualidade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cavalo
+:keyword-cavalo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cavalo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-chinês
+:keyword-chinês rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "chinês"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-refugiado
+:keyword-refugiado rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "refugiado"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-japonês
+:keyword-japonês rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "japonês"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-alimentos
+:keyword-alimentos rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "alimentos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-casamento
+:keyword-casamento rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "casamento"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homossexual
+:keyword-homossexual rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homossexual"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-gay
+:keyword-gay rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "gay"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-deveres
+:keyword-deveres rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "deveres"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-emigrante
+:keyword-emigrante rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "emigrante"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-humanitária
+:keyword-humanitária rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "humanitária"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-morto
+:keyword-morto rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "morto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-racista
+:keyword-racista rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "racista"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-feminina
+:keyword-feminina rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "feminina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-rapariga
+:keyword-rapariga rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "rapariga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-luto
+:keyword-luto rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "luto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-abuso
+:keyword-abuso rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "abuso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cães
+:keyword-cães rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cães"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-gato
+:keyword-gato rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "gato"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-circo
+:keyword-circo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "circo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-animal
+:keyword-animal rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "animal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-negra
+:keyword-negra rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "negra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-feminista
+:keyword-feminista rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "feminista"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-assassínio
+:keyword-assassínio rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "assassínio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cão
+:keyword-cão rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cantora
+:keyword-cantora rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cantora"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-perseguição
+:keyword-perseguição rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "perseguição"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-morta
+:keyword-morta rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "morta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vergonha
+:keyword-vergonha rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vergonha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-asiático
+:keyword-asiático rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "asiático"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-imigrante
+:keyword-imigrante rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "imigrante"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-salário
+:keyword-salário rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "salário"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-desaparecimento
+:keyword-desaparecimento rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "desaparecimento"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-raça
+:keyword-raça rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "raça"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-assédio
+:keyword-assédio rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "assédio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-escravatura
+:keyword-escravatura rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "escravatura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-cativeiro
+:keyword-cativeiro rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "cativeiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-deportação
+:keyword-deportação rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "deportação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-assalto
+:keyword-assalto rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "assalto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-discriminação
+:keyword-discriminação rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "discriminação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-rapto
+:keyword-rapto rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "rapto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-ilegal
+:keyword-ilegal rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "ilegal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-pânico
+:keyword-pânico rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "pânico"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-abate
+:keyword-abate rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "abate"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-moça
+:keyword-moça rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "moça"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vegetariano
+:keyword-vegetariano rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vegetariano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-aves
+:keyword-aves rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "aves"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-touro
+:keyword-touro rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "touro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-infantil
+:keyword-infantil rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "infantil"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-agressor
+:keyword-agressor rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "agressor"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-faleceu
+:keyword-faleceu rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "faleceu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-ovelha
+:keyword-ovelha rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "ovelha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-tourada
+:keyword-tourada rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "tourada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-adultério
+:keyword-adultério rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "adultério"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-divórcio
+:keyword-divórcio rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "divórcio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-marfim
+:keyword-marfim rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "marfim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-autoestima
+:keyword-autoestima rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "autoestima"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-lgbt
+:keyword-lgbt rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "lgbt"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-xenofobia
+:keyword-xenofobia rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "xenofobia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-feminismo
+:keyword-feminismo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "feminismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-deportado
+:keyword-deportado rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "deportado"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homofobia
+:keyword-homofobia rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homofobia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-transexual
+:keyword-transexual rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "transexual"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-eutanásia
+:keyword-eutanásia rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "eutanásia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-bicha
+:keyword-bicha rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "bicha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-prostituta
+:keyword-prostituta rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "prostituta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-bissexual
+:keyword-bissexual rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "bissexual"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-lésbica
+:keyword-lésbica rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "lésbica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-ansiedade
+:keyword-ansiedade rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "ansiedade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vagina
+:keyword-vagina rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vagina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-falecimento
+:keyword-falecimento rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "falecimento"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-andrógeno
+:keyword-andrógeno rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "andrógeno"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-pénis
+:keyword-pénis rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "pénis"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-chantagem
+:keyword-chantagem rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "chantagem"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-veganismo
+:keyword-veganismo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "veganismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-infidelidade_
+:keyword-infidelidade_ rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "infidelidade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vegetarianismo
+:keyword-vegetarianismo rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vegetarianismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-coerção
+:keyword-coerção rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "coerção"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-vegano
+:keyword-vegano rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "vegano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-canil
+:keyword-canil rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "canil"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-donzela
+:keyword-donzela rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "donzela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#keyword-homosexualidade
+:keyword-homosexualidade rdf:type owl:NamedIndividual ,
+                 :Keyword ;
+        :keyword "homosexualidade"^^xsd:string .
+
+            

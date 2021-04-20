@@ -1,0 +1,145 @@
+
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-América_Latina
+:otherPlace-América_Latina rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "América Latina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Mediterrâneo
+:otherPlace-Mediterrâneo rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Mediterrâneo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Himalaias
+:otherPlace-Himalaias rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Himalaias"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Faixa_de_Gaza
+:otherPlace-Faixa_de_Gaza rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Faixa de Gaza"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Eurásia
+:otherPlace-Eurásia rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Eurásia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Praça_Vermelha
+:otherPlace-Praça_Vermelha rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Praça Vermelha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Rio_Tejo
+:otherPlace-Rio_Tejo rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Rio Tejo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Petra
+:otherPlace-Petra rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Petra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Torre_Eiffel
+:otherPlace-Torre_Eiffel rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Torre Eiffel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Estátua_da_Liberdade
+:otherPlace-Estátua_da_Liberdade rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Estátua da Liberdade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Triângulo_das_Bermudas
+:otherPlace-Triângulo_das_Bermudas rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Triângulo das Bermudas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Rio_Cávado
+:otherPlace-Rio_Cávado rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Rio Cávado"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Angkor_Wat
+:otherPlace-Angkor_Wat rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Angkor Wat"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Rio_Guadiana
+:otherPlace-Rio_Guadiana rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Rio Guadiana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Coliseu_de_Roma
+:otherPlace-Coliseu_de_Roma rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Coliseu de Roma"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Stonehenge
+:otherPlace-Stonehenge rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Stonehenge"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Yellowstone
+:otherPlace-Yellowstone rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Yellowstone"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Rio_Lima
+:otherPlace-Rio_Lima rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Rio Lima"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Cristo_Redentor
+:otherPlace-Cristo_Redentor rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Cristo Redentor"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Taj_Mahal
+:otherPlace-Taj_Mahal rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Taj Mahal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Grande_Muralha_da_China
+:otherPlace-Grande_Muralha_da_China rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Grande Muralha da China"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Tombuctu
+:otherPlace-Tombuctu rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Tombuctu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Alhambra
+:otherPlace-Alhambra rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Alhambra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#otherPlace-Machu_Picchu
+:otherPlace-Machu_Picchu rdf:type owl:NamedIndividual ,
+                 :OtherPlace ;
+        :otherPlace "Machu Picchu"^^xsd:string .
+
+            

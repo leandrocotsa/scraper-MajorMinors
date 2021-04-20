@@ -1,0 +1,241 @@
+
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Birmingham
+:footballClub-Birmingham rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Birmingham"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Brescia
+:footballClub-Brescia rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Brescia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Cardiff
+:footballClub-Cardiff rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Cardiff"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-FC_Porto
+:footballClub-FC_Porto rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "FC Porto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Santa_Clara
+:footballClub-Santa_Clara rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Santa Clara"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Middlesbrough
+:footballClub-Middlesbrough rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Middlesbrough"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Borussia_Dortmund
+:footballClub-Borussia_Dortmund rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Borussia Dortmund"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Belenenses
+:footballClub-Belenenses rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Belenenses"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Portimonense
+:footballClub-Portimonense rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Portimonense"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Reading
+:footballClub-Reading rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Reading"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Swansea
+:footballClub-Swansea rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Swansea"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Brighton
+:footballClub-Brighton rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Brighton"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Hull
+:footballClub-Hull rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Hull"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Huddersfield
+:footballClub-Huddersfield rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Huddersfield"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Derby
+:footballClub-Derby rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Derby"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Leeds
+:footballClub-Leeds rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Leeds"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Preston
+:footballClub-Preston rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Preston"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Blackburn
+:footballClub-Blackburn rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Blackburn"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Parma
+:footballClub-Parma rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Parma"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Luton
+:footballClub-Luton rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Luton"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Real_Madrid
+:footballClub-Real_Madrid rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Real Madrid"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Charlton
+:footballClub-Charlton rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Charlton"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-FC_Barcelona
+:footballClub-FC_Barcelona rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "FC Barcelona"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-AC_Milan
+:footballClub-AC_Milan rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "AC Milan"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Juventus
+:footballClub-Juventus rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Juventus"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Werder_Bremen
+:footballClub-Werder_Bremen rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Werder Bremen"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Newcastle_United_FC
+:footballClub-Newcastle_United_FC rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Newcastle United FC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Atlético_Madrid
+:footballClub-Atlético_Madrid rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Atlético Madrid"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Fulham
+:footballClub-Fulham rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Fulham"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Millwall
+:footballClub-Millwall rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Millwall"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-SC_Braga
+:footballClub-SC_Braga rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "SC Braga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Vitória_SC
+:footballClub-Vitória_SC rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Vitória SC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Vitória_FC
+:footballClub-Vitória_FC rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Vitória FC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Wigan
+:footballClub-Wigan rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Wigan"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Stoke
+:footballClub-Stoke rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Stoke"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Bayer_Leverkusen
+:footballClub-Bayer_Leverkusen rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Bayer Leverkusen"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Hoffenheim
+:footballClub-Hoffenheim rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Hoffenheim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Eintracht_Frankfurt
+:footballClub-Eintracht_Frankfurt rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Eintracht Frankfurt"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-Real_Sociedad
+:footballClub-Real_Sociedad rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "Real Sociedad"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#footballClub-AS_Roma
+:footballClub-AS_Roma rdf:type owl:NamedIndividual ,
+                 :FootballClub ;
+        :footballClub "AS Roma"^^xsd:string .
+
+            

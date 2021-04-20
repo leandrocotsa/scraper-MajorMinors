@@ -1,0 +1,703 @@
+
+###  http://sparql.ilch.uminho.pt/minors#animal-coelho
+:animal-coelho rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "coelho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-foca
+:animal-foca rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "foca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-porco
+:animal-porco rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "porco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-rato
+:animal-rato rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "rato"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-sapo
+:animal-sapo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "sapo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pavão
+:animal-pavão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pavão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cavalo
+:animal-cavalo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cavalo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-águia
+:animal-águia rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "águia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-corvo
+:animal-corvo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "corvo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-burro
+:animal-burro rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "burro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-falcão
+:animal-falcão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "falcão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-gato
+:animal-gato rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "gato"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-leão
+:animal-leão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "leão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-macaco
+:animal-macaco rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "macaco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pega
+:animal-pega rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pega"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pomba
+:animal-pomba rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pomba"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-serpente
+:animal-serpente rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "serpente"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-urso
+:animal-urso rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "urso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cão
+:animal-cão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-leopardo
+:animal-leopardo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "leopardo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pato
+:animal-pato rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pato"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pantera
+:animal-pantera rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pantera"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-crocodilo
+:animal-crocodilo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "crocodilo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-caracol
+:animal-caracol rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "caracol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-rouxinol
+:animal-rouxinol rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "rouxinol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lobo
+:animal-lobo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lobo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-puma
+:animal-puma rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "puma"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-coiote
+:animal-coiote rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "coiote"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-elefante
+:animal-elefante rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "elefante"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lula
+:animal-lula rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lula"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-ovelha
+:animal-ovelha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "ovelha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-carneiro
+:animal-carneiro rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "carneiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-patoreal
+:animal-patoreal rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pato-real"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-frango
+:animal-frango rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "frango"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-tubarão
+:animal-tubarão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "tubarão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-barata
+:animal-barata rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "barata"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-camelo
+:animal-camelo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "camelo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-aranha
+:animal-aranha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "aranha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-mosca
+:animal-mosca rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "mosca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-borboleta
+:animal-borboleta rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "borboleta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-veado
+:animal-veado rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "veado"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-baleia
+:animal-baleia rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "baleia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-rinoceronte
+:animal-rinoceronte rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "rinoceronte"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-tartaruga
+:animal-tartaruga rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "tartaruga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-mosquito
+:animal-mosquito rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "mosquito"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-tigre
+:animal-tigre rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "tigre"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-girafa
+:animal-girafa rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "girafa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cobra
+:animal-cobra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cobra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cisne
+:animal-cisne rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cisne"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-morcego
+:animal-morcego rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "morcego"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-javali
+:animal-javali rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "javali"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-perdiz
+:animal-perdiz rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "perdiz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-chimpanzé
+:animal-chimpanzé rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "chimpanzé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-golfinho
+:animal-golfinho rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "golfinho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cabra
+:animal-cabra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cabra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-gorila
+:animal-gorila rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "gorila"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cotovia
+:animal-cotovia rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cotovia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-formiga
+:animal-formiga rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "formiga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-jacaré
+:animal-jacaré rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "jacaré"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-jaguar
+:animal-jaguar rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "jaguar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lagarta
+:animal-lagarta rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lagarta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-caranguejo
+:animal-caranguejo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "caranguejo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-andorinha
+:animal-andorinha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "andorinha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-boi
+:animal-boi rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "boi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-raposa
+:animal-raposa rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "raposa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-enguia
+:animal-enguia rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "enguia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-cação
+:animal-cação rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "cação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-ostra
+:animal-ostra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "ostra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pombo
+:animal-pombo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pombo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-medusa
+:animal-medusa rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "medusa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-iguana
+:animal-iguana rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "iguana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pónei
+:animal-pónei rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pónei"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-pelicano
+:animal-pelicano rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "pelicano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-salamandra
+:animal-salamandra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "salamandra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-anta
+:animal-anta rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "anta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-ganso
+:animal-ganso rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "ganso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lagosta
+:animal-lagosta rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lagosta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lagarto
+:animal-lagarto rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lagarto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-ratazana
+:animal-ratazana rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "ratazana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-toupeira
+:animal-toupeira rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "toupeira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-abelha
+:animal-abelha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "abelha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-ouriço
+:animal-ouriço rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "ouriço"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-zebra
+:animal-zebra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "zebra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-gaivota
+:animal-gaivota rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "gaivota"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-gazela
+:animal-gazela rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "gazela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-avestruz
+:animal-avestruz rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "avestruz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lebre
+:animal-lebre rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lebre"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-vespa
+:animal-vespa rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "vespa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-hipopótamo
+:animal-hipopótamo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "hipopótamo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-mula
+:animal-mula rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "mula"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-canguru
+:animal-canguru rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "canguru"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-esquilo
+:animal-esquilo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "esquilo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-texugo
+:animal-texugo rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "texugo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-coruja
+:animal-coruja rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "coruja"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-rena
+:animal-rena rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "rena"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-alce
+:animal-alce rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "alce"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-hiena
+:animal-hiena rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "hiena"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-perú
+:animal-perú rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "perú"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-panda_gigante
+:animal-panda_gigante rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "panda gigante"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lontra
+:animal-lontra rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lontra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-tentilhão
+:animal-tentilhão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "tentilhão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-castor
+:animal-castor rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "castor"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-fuinha
+:animal-fuinha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "fuinha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-lémure
+:animal-lémure rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "lémure"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-babuíno
+:animal-babuíno rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "babuíno"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-piolho
+:animal-piolho rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "piolho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-musaranho
+:animal-musaranho rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "musaranho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-chacal
+:animal-chacal rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "chacal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-estreladomar
+:animal-estreladomar rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "estrela-do-mar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-guaxinim
+:animal-guaxinim rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "guaxinim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-tatu
+:animal-tatu rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "tatu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-antílope
+:animal-antílope rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "antílope"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-aardvark
+:animal-aardvark rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "aardvark"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-vison
+:animal-vison rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "vison"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-doninha
+:animal-doninha rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "doninha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-garçareal
+:animal-garçareal rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "garça-real"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#animal-furão
+:animal-furão rdf:type owl:NamedIndividual ,
+                 :Animal ;
+        :animal "furão"^^xsd:string .
+
+            

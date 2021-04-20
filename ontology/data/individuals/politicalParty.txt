@@ -1,0 +1,97 @@
+
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PS
+:politicalParty-PS rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PS"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PAN
+:politicalParty-PAN rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PAN"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PSD
+:politicalParty-PSD rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PSD"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-LIVRE
+:politicalParty-LIVRE rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "LIVRE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-MPT
+:politicalParty-MPT rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "MPT"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PPM
+:politicalParty-PPM rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PPM"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-Partido_Popular_Europeu
+:politicalParty-Partido_Popular_Europeu rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "Partido Popular Europeu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PCP
+:politicalParty-PCP rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PCP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-BE
+:politicalParty-BE rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "BE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PEV
+:politicalParty-PEV rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PEV"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-UDP
+:politicalParty-UDP rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "UDP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-PRD
+:politicalParty-PRD rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "PRD"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-Identidade_e_Democracia
+:politicalParty-Identidade_e_Democracia rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "Identidade e Democracia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-UEDS
+:politicalParty-UEDS rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "UEDS"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-MDPCDE
+:politicalParty-MDPCDE rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "MDP/CDE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#politicalParty-Intervenção_Democrática
+:politicalParty-Intervenção_Democrática rdf:type owl:NamedIndividual ,
+                 :PoliticalParty ;
+        :politicalParty "Intervenção Democrática"^^xsd:string .
+
+            

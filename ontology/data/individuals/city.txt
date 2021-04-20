@@ -1,0 +1,1759 @@
+
+###  http://sparql.ilch.uminho.pt/minors#city-Bragança
+:city-Bragança rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bragança"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lisboa
+:city-Lisboa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lisboa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Porto
+:city-Porto rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Porto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Paris
+:city-Paris rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Paris"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tomar
+:city-Tomar rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tomar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Berlim
+:city-Berlim rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Berlim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bangui
+:city-Bangui rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bangui"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Washington
+:city-Washington rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Washington"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Amadora
+:city-Amadora rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Amadora"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Loures
+:city-Loures rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Loures"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Fafe
+:city-Fafe rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Fafe"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Moura
+:city-Moura rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Moura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Felgueiras
+:city-Felgueiras rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Felgueiras"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Matosinhos
+:city-Matosinhos rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Matosinhos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Aveiro
+:city-Aveiro rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Aveiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Beja
+:city-Beja rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Beja"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Coimbra
+:city-Coimbra rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Coimbra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Maia
+:city-Maia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Maia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Silves
+:city-Silves rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Silves"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cabul
+:city-Cabul rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cabul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Londres
+:city-Londres rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Londres"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Praia
+:city-Praia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Praia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Guarda
+:city-Guarda rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Guarda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Fátima
+:city-Fátima rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Fátima"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santarém
+:city-Santarém rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santarém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Georgetown
+:city-Georgetown rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Georgetown"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Damasco
+:city-Damasco rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Damasco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Moscovo
+:city-Moscovo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Moscovo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vizela
+:city-Vizela rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vizela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bogotá
+:city-Bogotá rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bogotá"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lima
+:city-Lima rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lima"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Paredes
+:city-Paredes rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Paredes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Guimarães
+:city-Guimarães rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Guimarães"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lagos
+:city-Lagos rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lagos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Estocolmo
+:city-Estocolmo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Estocolmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tóquio
+:city-Tóquio rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tóquio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Praga
+:city-Praga rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Praga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Amã
+:city-Amã rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Amã"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cartum
+:city-Cartum rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cartum"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Dakar
+:city-Dakar rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Dakar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Islamabad
+:city-Islamabad rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Islamabad"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Luxemburgo
+:city-Luxemburgo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Luxemburgo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Roma
+:city-Roma rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Roma"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bruxelas
+:city-Bruxelas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bruxelas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Madrid
+:city-Madrid rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Madrid"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Copenhaga
+:city-Copenhaga rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Copenhaga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bissau
+:city-Bissau rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bissau"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pequim
+:city-Pequim rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pequim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cairo
+:city-Cairo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cairo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Port_Vila
+:city-Port_Vila rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Port Vila"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Caldas_da_Rainha
+:city-Caldas_da_Rainha rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Caldas da Rainha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Penafiel
+:city-Penafiel rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Penafiel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Havana
+:city-Havana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Havana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Kiev
+:city-Kiev rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Kiev"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santiago
+:city-Santiago rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santiago"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Conacri
+:city-Conacri rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Conacri"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Budapeste
+:city-Budapeste rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Budapeste"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Victoria
+:city-Victoria rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Victoria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Funchal
+:city-Funchal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Funchal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Loulé
+:city-Loulé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Loulé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Assunção
+:city-Assunção rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Assunção"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Luanda
+:city-Luanda rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Luanda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Oslo
+:city-Oslo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Oslo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Minsk
+:city-Minsk rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Minsk"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Riga
+:city-Riga rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Riga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Singapura
+:city-Singapura rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Singapura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Póvoa_de_Varzim
+:city-Póvoa_de_Varzim rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Póvoa de Varzim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Setúbal
+:city-Setúbal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Setúbal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Caracas
+:city-Caracas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Caracas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cidade_do_Panamá
+:city-Cidade_do_Panamá rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cidade do Panamá"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Atenas
+:city-Atenas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Atenas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Belgrado
+:city-Belgrado rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Belgrado"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Alcácer_do_Sal
+:city-Alcácer_do_Sal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Alcácer do Sal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Barreiro
+:city-Barreiro rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Barreiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santiago_do_Cacém
+:city-Santiago_do_Cacém rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santiago do Cacém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sines
+:city-Sines rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sines"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Castelo_Branco
+:city-Castelo_Branco rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Castelo Branco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Estremoz
+:city-Estremoz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Estremoz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Reguengos_de_Monsaraz
+:city-Reguengos_de_Monsaraz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Reguengos de Monsaraz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Faro
+:city-Faro rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Faro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ermesinde
+:city-Ermesinde rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ermesinde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Nova_Deli
+:city-Nova_Deli rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Nova Deli"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Espinho
+:city-Espinho rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Espinho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Nova_de_Gaia
+:city-Vila_Nova_de_Gaia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Nova de Gaia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Horta
+:city-Horta rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Horta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Franca_de_Xira
+:city-Vila_Franca_de_Xira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Franca de Xira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Figueira_da_Foz
+:city-Figueira_da_Foz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Figueira da Foz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pombal
+:city-Pombal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pombal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Angra_do_Heroísmo
+:city-Angra_do_Heroísmo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Angra do Heroísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Almada
+:city-Almada rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Almada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Leiria
+:city-Leiria rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Leiria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pyongyang
+:city-Pyongyang rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pyongyang"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Barcelos
+:city-Barcelos rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Barcelos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Kuala_Lumpur
+:city-Kuala_Lumpur rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Kuala Lumpur"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Montijo
+:city-Montijo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Montijo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Buenos_Aires
+:city-Buenos_Aires rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Buenos Aires"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ancara
+:city-Ancara rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ancara"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Helsínquia
+:city-Helsínquia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Helsínquia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bucareste
+:city-Bucareste rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bucareste"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tirana
+:city-Tirana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tirana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cartaxo
+:city-Cartaxo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cartaxo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tavira
+:city-Tavira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tavira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Astana
+:city-Astana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Astana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Gouveia
+:city-Gouveia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Gouveia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Amarante
+:city-Amarante rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Amarante"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Chaves
+:city-Chaves rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Chaves"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Gondomar
+:city-Gondomar rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Gondomar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lourosa
+:city-Lourosa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lourosa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Paços_de_Ferreira
+:city-Paços_de_Ferreira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Paços de Ferreira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Rio_Tinto
+:city-Rio_Tinto rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Rio Tinto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tondela
+:city-Tondela rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tondela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Viseu
+:city-Viseu rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Viseu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Queluz
+:city-Queluz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Queluz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Maputo
+:city-Maputo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Maputo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Albufeira
+:city-Albufeira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Albufeira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Abrantes
+:city-Abrantes rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Abrantes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-São_Tomé
+:city-São_Tomé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "São Tomé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Costa_da_Caparica
+:city-Costa_da_Caparica rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Costa da Caparica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Daca
+:city-Daca rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Daca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Díli
+:city-Díli rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Díli"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Kigali
+:city-Kigali rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Kigali"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-PortauPrince
+:city-PortauPrince rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Port-au-Prince"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Marco_de_Canaveses
+:city-Marco_de_Canaveses rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Marco de Canaveses"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Trofa
+:city-Trofa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Trofa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Évora
+:city-Évora rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Évora"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_do_Conde
+:city-Vila_do_Conde rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila do Conde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santa_Cruz
+:city-Santa_Cruz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santa Cruz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santana
+:city-Santana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Portalegre
+:city-Portalegre rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Portalegre"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Trancoso
+:city-Trancoso rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Trancoso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ourém
+:city-Ourém rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ourém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Viena
+:city-Viena rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Viena"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Dublin
+:city-Dublin rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Dublin"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sacavém
+:city-Sacavém rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sacavém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Colombo
+:city-Colombo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Colombo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Amesterdão
+:city-Amesterdão rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Amesterdão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Kinshasa
+:city-Kinshasa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Kinshasa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Trípoli
+:city-Trípoli rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Trípoli"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Abu_Dhabi
+:city-Abu_Dhabi rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Abu Dhabi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Hanói
+:city-Hanói rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Hanói"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lagoa
+:city-Lagoa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lagoa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Taipé
+:city-Taipé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Taipé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sarajevo
+:city-Sarajevo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sarajevo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sana
+:city-Sana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Viana_do_Castelo
+:city-Viana_do_Castelo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Viana do Castelo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bratislava
+:city-Bratislava rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bratislava"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Varsóvia
+:city-Varsóvia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Varsóvia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Portimão
+:city-Portimão rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Portimão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Seixal
+:city-Seixal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Seixal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-São_Pedro_do_Sul
+:city-São_Pedro_do_Sul rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "São Pedro do Sul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Esposende
+:city-Esposende rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Esposende"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santa_Maria_da_Feira
+:city-Santa_Maria_da_Feira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santa Maria da Feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Argel
+:city-Argel rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Argel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sófia
+:city-Sófia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sófia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Peniche
+:city-Peniche rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Peniche"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Beirute
+:city-Beirute rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Beirute"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Nova_de_Famalicão
+:city-Vila_Nova_de_Famalicão rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Nova de Famalicão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mogadíscio
+:city-Mogadíscio rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mogadíscio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Yaoundé
+:city-Yaoundé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Yaoundé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Jacarta
+:city-Jacarta rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Jacarta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Skopje
+:city-Skopje rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Skopje"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Póvoa_de_Santa_Iria
+:city-Póvoa_de_Santa_Iria rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Póvoa de Santa Iria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Oliveira_de_Azeméis
+:city-Oliveira_de_Azeméis rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Oliveira de Azeméis"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ponta_Delgada
+:city-Ponta_Delgada rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ponta Delgada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ribeira_Grande
+:city-Ribeira_Grande rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ribeira Grande"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Baku
+:city-Baku rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Baku"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bamako
+:city-Bamako rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bamako"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Seia
+:city-Seia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Seia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Serpa
+:city-Serpa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Serpa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lamego
+:city-Lamego rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lamego"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Peso_da_Régua
+:city-Peso_da_Régua rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Peso da Régua"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Valença
+:city-Valença rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Valença"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Real
+:city-Vila_Real rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Real"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Marinha_Grande
+:city-Marinha_Grande rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Marinha Grande"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Torres_Vedras
+:city-Torres_Vedras rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Torres Vedras"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lordelo
+:city-Lordelo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lordelo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Macedo_de_Cavaleiros
+:city-Macedo_de_Cavaleiros rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Macedo de Cavaleiros"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Valongo
+:city-Valongo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Valongo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Odivelas
+:city-Odivelas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Odivelas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santo_Tirso
+:city-Santo_Tirso rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santo Tirso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Borba
+:city-Borba rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Borba"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lixa
+:city-Lixa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lixa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ovar
+:city-Ovar rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ovar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Elvas
+:city-Elvas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Elvas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ponte_de_Sor
+:city-Ponte_de_Sor rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ponte de Sor"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Adis_Abeba
+:city-Adis_Abeba rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Adis Abeba"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-São_João_da_Madeira
+:city-São_João_da_Madeira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "São João da Madeira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Estarreja
+:city-Estarreja rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Estarreja"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mealhada
+:city-Mealhada rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mealhada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Amora
+:city-Amora rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Amora"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-La_Paz
+:city-La_Paz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "La Paz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Real_de_Santo_António
+:city-Vila_Real_de_Santo_António rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Real de Santo António"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Doha
+:city-Doha rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Doha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Nicósia
+:city-Nicósia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Nicósia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-AlbergariaaVelha
+:city-AlbergariaaVelha rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Albergaria-a-Velha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Águeda
+:city-Águeda rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Águeda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Alcobaça
+:city-Alcobaça rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Alcobaça"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Port_Moresby
+:city-Port_Moresby rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Port Moresby"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Harare
+:city-Harare rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Harare"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mangualde
+:city-Mangualde rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mangualde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Abuja
+:city-Abuja rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Abuja"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Almeirim
+:city-Almeirim rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Almeirim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Rio_Maior
+:city-Rio_Maior rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Rio Maior"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Seul
+:city-Seul rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Seul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mêda
+:city-Mêda rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mêda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Covilhã
+:city-Covilhã rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Covilhã"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Berna
+:city-Berna rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Berna"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Chernobyl
+:city-Chernobyl rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Chernobyl"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ílhavo
+:city-Ílhavo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ílhavo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Freamunde
+:city-Freamunde rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Freamunde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Entroncamento
+:city-Entroncamento rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Entroncamento"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Manila
+:city-Manila rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Manila"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Oliveira_do_Bairro
+:city-Oliveira_do_Bairro rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Oliveira do Bairro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-MontemoroNovo
+:city-MontemoroNovo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Montemor-o-Novo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Torres_Novas
+:city-Torres_Novas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Torres Novas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Nairobi
+:city-Nairobi rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Nairobi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Quarteira
+:city-Quarteira rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Quarteira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Valbom
+:city-Valbom rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Valbom"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Praia_da_Vitória
+:city-Praia_da_Vitória rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Praia da Vitória"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mirandela
+:city-Mirandela rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mirandela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Acra
+:city-Acra rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Acra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Brazzaville
+:city-Brazzaville rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Brazzaville"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Oliveira_do_Hospital
+:city-Oliveira_do_Hospital rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Oliveira do Hospital"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vilnius
+:city-Vilnius rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vilnius"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Rabat
+:city-Rabat rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Rabat"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pinhel
+:city-Pinhel rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pinhel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Nova_de_Foz_Côa
+:city-Vila_Nova_de_Foz_Côa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Nova de Foz Côa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Zagreb
+:city-Zagreb rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Zagreb"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Rebordosa
+:city-Rebordosa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Rebordosa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Fundão
+:city-Fundão rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Fundão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Gandra
+:city-Gandra rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Gandra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Anadia
+:city-Anadia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Anadia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ulan_Bator
+:city-Ulan_Bator rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ulan Bator"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Monróvia
+:city-Monróvia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Monróvia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vendas_Novas
+:city-Vendas_Novas rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vendas Novas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Windhoek
+:city-Windhoek rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Windhoek"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Sabugal
+:city-Sabugal rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Sabugal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vale_de_Cambra
+:city-Vale_de_Cambra rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vale de Cambra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Caniço
+:city-Caniço rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Caniço"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cantanhede
+:city-Cantanhede rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cantanhede"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Cidade_da_Guatemala
+:city-Cidade_da_Guatemala rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Cidade da Guatemala"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santa_Comba_Dão
+:city-Santa_Comba_Dão rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santa Comba Dão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Gafanha_da_Nazaré
+:city-Gafanha_da_Nazaré rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Gafanha da Nazaré"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Banguecoque
+:city-Banguecoque rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Banguecoque"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Montevideu
+:city-Montevideu rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Montevideu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tarouca
+:city-Tarouca rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tarouca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Valpaços
+:city-Valpaços rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Valpaços"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Valletta
+:city-Valletta rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Valletta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Fiães
+:city-Fiães rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Fiães"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Djibouti
+:city-Djibouti rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Djibouti"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Wellington
+:city-Wellington rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Wellington"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Kingston
+:city-Kingston rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Kingston"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Mascate
+:city-Mascate rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Mascate"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pretória
+:city-Pretória rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pretória"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Quito
+:city-Quito rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Quito"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lusaka
+:city-Lusaka rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lusaka"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Reiquejavique
+:city-Reiquejavique rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Reiquejavique"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tel_Aviv
+:city-Tel_Aviv rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tel Aviv"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Pristina
+:city-Pristina rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Pristina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bridgetown
+:city-Bridgetown rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bridgetown"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Câmara_de_Lobos
+:city-Câmara_de_Lobos rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Câmara de Lobos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-San_Marino
+:city-San_Marino rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "San Marino"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Ottawa
+:city-Ottawa rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Ottawa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Malabo
+:city-Malabo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Malabo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Phnom_Penh
+:city-Phnom_Penh rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Phnom Penh"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Canberra
+:city-Canberra rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Canberra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lomé
+:city-Lomé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lomé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Nassau
+:city-Nassau rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Nassau"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-São_Mamede_de_Infesta
+:city-São_Mamede_de_Infesta rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "São Mamede de Infesta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Esmoriz
+:city-Esmoriz rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Esmoriz"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Senhora_da_Hora
+:city-Senhora_da_Hora rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Senhora da Hora"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Santo_Domingo
+:city-Santo_Domingo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Santo Domingo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Niamey
+:city-Niamey rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Niamey"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Machico
+:city-Machico rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Machico"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-San_José
+:city-San_José rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "San José"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Malé
+:city-Malé rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Malé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Alfena
+:city-Alfena rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Alfena"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Riade
+:city-Riade rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Riade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-AgualvaCacém
+:city-AgualvaCacém rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Agualva-Cacém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Samora_Correia
+:city-Samora_Correia rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Samora Correia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Antananarivo
+:city-Antananarivo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Antananarivo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Bujumbura
+:city-Bujumbura rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Bujumbura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Nouakchott
+:city-Nouakchott rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Nouakchott"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Port_Louis
+:city-Port_Louis rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Port Louis"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Tbilisi
+:city-Tbilisi rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Tbilisi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Alverca_do_Ribatejo
+:city-Alverca_do_Ribatejo rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Alverca do Ribatejo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Freetown
+:city-Freetown rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Freetown"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Gaborone
+:city-Gaborone rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Gaborone"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Liubliana
+:city-Liubliana rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Liubliana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Yamoussoukro
+:city-Yamoussoukro rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Yamoussoukro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Lilongwe
+:city-Lilongwe rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Lilongwe"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-NDjamena
+:city-NDjamena rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "N'Djamena"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#city-Vila_Nova_de_Santo_André
+:city-Vila_Nova_de_Santo_André rdf:type owl:NamedIndividual ,
+                 :City ;
+        :city "Vila Nova de Santo André"^^xsd:string .
+
+            

@@ -1,0 +1,387 @@
+1582127374771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilebvNv7m"
+1582127377615	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127378170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127378170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127378170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127378170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127380710	Marionette	INFO	Listening on port 63223
+1582127544093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofile7q4OjL"
+1582127544979	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127545221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127545221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127545221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127545221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127546780	Marionette	INFO	Listening on port 63266
+1582127546882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401752, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401753, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127576679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilegh64z2"
+1582127577572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127577832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127577832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127577832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127577832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127579321	Marionette	INFO	Listening on port 63349
+1582127579333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401277, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401276, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127655458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileGqL3XF"
+1582127656343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127656739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127656739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127656739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127656739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127658835	Marionette	INFO	Listening on port 63460
+1582127658899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401323, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401321, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127707250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofiletCzMYk"
+1582127708081	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127708510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127708510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127708511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127708511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127711184	Marionette	INFO	Listening on port 63549
+1582127711266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401288, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401287, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127777895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilePR70i4"
+1582127778784	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127779252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127779252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127779252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127779252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127781412	Marionette	INFO	Listening on port 63646
+1582127781617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401295, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401295, line 14: ReferenceError: Twingly is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127831370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilegFw7sC"
+1582127832182	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127832599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127832599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127832599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127832599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127834725	Marionette	INFO	Listening on port 63736
+1582127834801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401285, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401284, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582127980778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileZEjFb4"
+1582127981871	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127982185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127982186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127982186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127982186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127983833	Marionette	INFO	Listening on port 63829
+1582127983845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401583, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401583, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582129096149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileCgIgyg"
+1582129097283	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129097601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129097601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129097601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129097602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129099433	Marionette	INFO	Listening on port 63993
+1582129099606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401656, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401655, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+1582129102764	Marionette	INFO	Stopped listening on port 63993
+1582129128058	Marionette	INFO	Stopped listening on port 63223
+1582129133419	Marionette	INFO	Stopped listening on port 63266
+1582129136987	Marionette	INFO	Stopped listening on port 63349
+1582129138942	Marionette	INFO	Stopped listening on port 63460
+1582129140782	Marionette	INFO	Stopped listening on port 63549
+1582129142669	Marionette	INFO	Stopped listening on port 63646
+1582129144397	Marionette	INFO	Stopped listening on port 63736
+1582129279443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileCW1JFU"
+1582129279889	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129280214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129280214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129280215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129280215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129281677	Marionette	INFO	Listening on port 64092
+1582129281695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401697, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401699, line 14: ReferenceError: Twingly is not defined
+1582129284860	Marionette	INFO	Stopped listening on port 64092
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582129309455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofile9N9BC8"
+1582129309910	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129310238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129310238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129310238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129310238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129311750	Marionette	INFO	Listening on port 64170
+1582129311809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401358, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401357, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582129315143	Marionette	INFO	Stopped listening on port 64170
+1582129350270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofile1gVWgk"
+1582129350793	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129351109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129351109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129351110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129351110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129353109	Marionette	INFO	Listening on port 64246
+1582129353153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401553, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401554, line 14: ReferenceError: Twingly is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582129358227	Marionette	INFO	Stopped listening on port 64246
+1582129438086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilehiO19y"
+1582129438790	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129439099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129439099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129439099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129439099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129440768	Marionette	INFO	Listening on port 64332
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1582129458278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofile3hV2fU"
+1582129458776	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129459057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129459057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129459057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129459057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129460509	Marionette	INFO	Listening on port 64383
+1582129460541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401309, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401309, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582129464367	Marionette	INFO	Stopped listening on port 64383
+1582129755111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileKSK5zN"
+1582129755845	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129756149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129756149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129756150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129756150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129757610	Marionette	INFO	Listening on port 64571
+1582129757672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401255, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401254, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130062373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofiley5fSYy"
+1582130063186	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130063525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130063525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130063525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130063525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130065104	Marionette	INFO	Listening on port 64728
+1582130065154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401242, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401242, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130091584	Marionette	INFO	Stopped listening on port 64728
+1582130094134	Marionette	INFO	Stopped listening on port 64571
+1582130099160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileJJSlHD"
+1582130099696	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130099998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130099998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130099998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130099998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130101518	Marionette	INFO	Listening on port 64804
+1582130101597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401288, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401286, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130165071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileBSMtQD"
+1582130165858	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130166267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130166267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130166267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130166268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130167813	Marionette	INFO	Listening on port 64898
+1582130167842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401191, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401190, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130172460	Marionette	INFO	Stopped listening on port 64898
+1582130219654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilexk2M8x"
+1582130220238	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130220673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130220673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130220673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130220673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130222212	Marionette	INFO	Listening on port 64979
+1582130222310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401264, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401263, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130226282	Marionette	INFO	Stopped listening on port 64979
+1582130250103	Marionette	INFO	Stopped listening on port 64804
+1582130638400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileIUiyyd"
+1582130639278	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130639762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130639762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130639762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130639762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130642187	Marionette	INFO	Listening on port 65244
+1582130642269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401488, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401487, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130646025	Marionette	INFO	Stopped listening on port 65244
+1582130680291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileoAf8Mo"
+1582130681014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130681595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130681595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130681595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130681596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130683957	Marionette	INFO	Listening on port 65333
+1582130684043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401303, line 14: ReferenceError: Twingly is not defined
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401301, line 14: ReferenceError: tw_ui is not defined
+JavaScript error: https://arquivo.pt/wayback/static/wombat.js, line 29: ReferenceError: SERGEYCHE is not defined
+1582130687882	Marionette	INFO	Stopped listening on port 65333
+1582130798379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileWgfnqI"
+1582130798873	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582130799321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582130799321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582130799321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582130799321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582130800868	Marionette	INFO	Listening on port 65460
+1582130800962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_portuguese.js?_=1254300401227, line 14: ReferenceError: tw_ui is not defined
+JavaScript warning: https://arquivo.pt/wayback/20090930084641js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/wayback/20090930084641js_/http://www2.twingly.com/scripts/widget/conf/tw_conf_publico.js?_=1254300401228, line 14: ReferenceError: Twingly is not defined
+1582130803840	Marionette	INFO	Stopped listening on port 65460
+1582133284305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofile6Ol5Yo"
+1582133284777	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582133285066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582133285066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582133285066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582133285066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582133286515	Marionette	INFO	Listening on port 49691
+1582133286542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery-1.3.2.min.js, line 66: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery.fancybox-1.2.4.js, line 564: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://comunique.clix.pt/dfpsb/PublicoHomepage.js, line 59: ReferenceError: GA_googleAddSlot is not defined
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 53: SyntaxError: missing } after function body
+JavaScript note: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 41: { opened at line 41, column 34
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://data.publico.pt/?loadCss=0&newWays=1&loadScript=jquery.jcarousel.min, line 638: ReferenceError: NE is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 542: ReferenceError: SWFObject is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 722: ReferenceError: Publico is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 120: TypeError: $(...).fancybox is not a function
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=OR4YKVdFu-xNSjEQugxPrPUpwXhQo4B1typSEdcg9TKOVWH8nBWnxvtfynhwczezfY7lmKxHBi3Pm9-82JedZr7whmShf9jl-7nH53yG_fKbQq10flx26Je57V31IM0sHobbnnBKtJhIqyDg0fS7EWeMpsKdLq4p8lXxgoz43FjPn6my0&t=6633dc7d:2723, line 35: Error: Sys.ArgumentException: Value must not be null for Controls and Behaviors.
+Parameter name: element
+1582133294823	Marionette	INFO	Stopped listening on port 49691
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1582133511222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileR1zPqk"
+1582133511686	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582133511976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582133511976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582133511976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582133511976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582133513423	Marionette	INFO	Listening on port 49765
+1582133513455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery-1.3.2.min.js, line 66: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery.fancybox-1.2.4.js, line 564: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://comunique.clix.pt/dfpsb/PublicoHomepage.js, line 59: ReferenceError: GA_googleAddSlot is not defined
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 53: SyntaxError: missing } after function body
+JavaScript note: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 41: { opened at line 41, column 34
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://data.publico.pt/?loadCss=0&newWays=1&loadScript=jquery.jcarousel.min, line 638: ReferenceError: NE is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 542: ReferenceError: SWFObject is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 722: ReferenceError: Publico is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 120: TypeError: $(...).fancybox is not a function
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=OR4YKVdFu-xNSjEQugxPrPUpwXhQo4B1typSEdcg9TKOVWH8nBWnxvtfynhwczezfY7lmKxHBi3Pm9-82JedZr7whmShf9jl-7nH53yG_fKbQq10flx26Je57V31IM0sHobbnnBKtJhIqyDg0fS7EWeMpsKdLq4p8lXxgoz43FjPn6my0&t=6633dc7d:2723, line 35: Error: Sys.ArgumentException: Value must not be null for Controls and Behaviors.
+Parameter name: element
+1582133520527	Marionette	INFO	Stopped listening on port 49765
+1582133956421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofilenaF790"
+1582133957506	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582133958035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582133958035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582133958035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582133958035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582133961734	Marionette	INFO	Listening on port 49986
+1582133961812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery-1.3.2.min.js, line 66: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery.fancybox-1.2.4.js, line 564: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://comunique.clix.pt/dfpsb/PublicoHomepage.js, line 59: ReferenceError: GA_googleAddSlot is not defined
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 53: SyntaxError: missing } after function body
+JavaScript note: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 41: { opened at line 41, column 34
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://data.publico.pt/?loadCss=0&newWays=1&loadScript=jquery.jcarousel.min, line 638: ReferenceError: NE is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 542: ReferenceError: SWFObject is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 722: ReferenceError: Publico is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 120: TypeError: $(...).fancybox is not a function
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=OR4YKVdFu-xNSjEQugxPrPUpwXhQo4B1typSEdcg9TKOVWH8nBWnxvtfynhwczezfY7lmKxHBi3Pm9-82JedZr7whmShf9jl-7nH53yG_fKbQq10flx26Je57V31IM0sHobbnnBKtJhIqyDg0fS7EWeMpsKdLq4p8lXxgoz43FjPn6my0&t=6633dc7d:2723, line 35: Error: Sys.ArgumentException: Value must not be null for Controls and Behaviors.
+Parameter name: element
+1582133969745	Marionette	INFO	Stopped listening on port 49986
+1582134707778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_0/4vklm_vd3gj2l4jy6lw_gv080000gn/T/rust_mozprofileLI7zjW"
+1582134708797	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582134709366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582134709366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582134709366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582134709367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582134711759	Marionette	INFO	Listening on port 50206
+1582134711814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery-1.3.2.min.js, line 66: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/Scripts/jquery.fancybox-1.2.4.js, line 564: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://comunique.clix.pt/dfpsb/PublicoHomepage.js, line 59: ReferenceError: GA_googleAddSlot is not defined
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 53: SyntaxError: missing } after function body
+JavaScript note: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=vyzaIPx-X5uzyGodGYnz7aJjuUgDDqwbt9jWK8ffepayvYOJoD2QvgEULIzklY_rdLkwWAHDseZz-4oBXZWazw91IYlnY0Q-iA1v-7e70hsk5j61BYucWJ2LbBc_rx_gFdDvujUaKD1Dr1QyS3mfaqVYWJA1&t=ffffffffbc47296b, line 41: { opened at line 41, column 34
+JavaScript warning: https://arquivo.pt/noFrame/replay/20110911151717js_/http://images.clix.pt/haf_out/dfp.js, line 38: unreachable code after return statement
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://data.publico.pt/?loadCss=0&newWays=1&loadScript=jquery.jcarousel.min, line 638: ReferenceError: NE is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 542: ReferenceError: SWFObject is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 722: ReferenceError: Publico is not defined
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717/http://videos.publico.pt/Default.aspx?Id=761dec52-ad7c-4c23-80b0-fdc6d26cb144, line 120: TypeError: $(...).fancybox is not a function
+JavaScript error: https://arquivo.pt/noFrame/replay/20110911151717js_/http://videos.publico.pt/ScriptResource.axd?d=OR4YKVdFu-xNSjEQugxPrPUpwXhQo4B1typSEdcg9TKOVWH8nBWnxvtfynhwczezfY7lmKxHBi3Pm9-82JedZr7whmShf9jl-7nH53yG_fKbQq10flx26Je57V31IM0sHobbnnBKtJhIqyDg0fS7EWeMpsKdLq4p8lXxgoz43FjPn6my0&t=6633dc7d:2723, line 35: Error: Sys.ArgumentException: Value must not be null for Controls and Behaviors.
+Parameter name: element
+1582134719782	Marionette	INFO	Stopped listening on port 50206
+1582137037402	Marionette	INFO	Stopped listening on port 63829

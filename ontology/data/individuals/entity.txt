@@ -1,0 +1,301 @@
+
+###  http://sparql.ilch.uminho.pt/minors#entity-UNESCO
+:entity-UNESCO rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "UNESCO"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ONU
+:entity-ONU rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ONU"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-EUA
+:entity-EUA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "EUA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OI
+:entity-OI rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-GNR
+:entity-GNR rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "GNR"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-PSP
+:entity-PSP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "PSP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-SEF
+:entity-SEF rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "SEF"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-PJ
+:entity-PJ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "PJ"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-NATO
+:entity-NATO rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "NATO"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-TROIKA
+:entity-TROIKA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "TROIKA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-UE
+:entity-UE rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "UE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MAI
+:entity-MAI rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MAI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-NASA
+:entity-NASA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "NASA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-PETA
+:entity-PETA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "PETA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OSCE
+:entity-OSCE rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OSCE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-FMI
+:entity-FMI rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "FMI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-IEFP
+:entity-IEFP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "IEFP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OMS
+:entity-OMS rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OMS"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OCDE_
+:entity-OCDE_ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OCDE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OIT_
+:entity-OIT_ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OIT"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OMA
+:entity-OMA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OMA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-CPLP
+:entity-CPLP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "CPLP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-DECO
+:entity-DECO rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "DECO"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ASAE
+:entity-ASAE rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ASAE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-INH
+:entity-INH rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "INH"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-PALOP_
+:entity-PALOP_ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "PALOP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-CPLP_
+:entity-CPLP_ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "CPLP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-DGEG
+:entity-DGEG rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "DGEG"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-UA
+:entity-UA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "UA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MERCOSUL
+:entity-MERCOSUL rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MERCOSUL"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ERSE
+:entity-ERSE rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ERSE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-CICV
+:entity-CICV rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "CICV"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OMC
+:entity-OMC rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OMC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ONGs
+:entity-ONGs rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ONGs"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-LNEC
+:entity-LNEC rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "LNEC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ISP
+:entity-ISP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ISP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MNE
+:entity-MNE rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MNE"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-OEI
+:entity-OEI rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "OEI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MTSS
+:entity-MTSS rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MTSS"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-CEJ
+:entity-CEJ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "CEJ"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MADRP
+:entity-MADRP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MADRP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-UIT
+:entity-UIT rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "UIT"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-IMTT
+:entity-IMTT rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "IMTT"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-IEP
+:entity-IEP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "IEP"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-INA
+:entity-INA rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "INA"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-IAPMEI
+:entity-IAPMEI rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "IAPMEI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MJ
+:entity-MJ rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MJ"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MDN
+:entity-MDN rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MDN"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-ANACOM
+:entity-ANACOM rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "ANACOM"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#entity-MFAP
+:entity-MFAP rdf:type owl:NamedIndividual ,
+                 :Entity ;
+        :entity "MFAP"^^xsd:string .
+
+            

@@ -1,0 +1,49 @@
+
+###  http://sparql.ilch.uminho.pt/minors#minority-refugiados
+:minority-refugiados rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "refugiados"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-animais
+:minority-animais rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "animais"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-migrantes
+:minority-migrantes rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "migrantes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-mulheres
+:minority-mulheres rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "mulheres"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-africanos
+:minority-africanos rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "africanos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-asiáticos
+:minority-asiáticos rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "asiáticos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-ciganos
+:minority-ciganos rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "ciganos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#minority-homossexuais
+:minority-homossexuais rdf:type owl:NamedIndividual ,
+                 :Minority ;
+        :minority "homossexuais"^^xsd:string .
+
+            

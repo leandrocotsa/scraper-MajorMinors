@@ -1,0 +1,115 @@
+
+###  http://sparql.ilch.uminho.pt/minors#religion-Cristianismo
+:religion-Cristianismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Cristianismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Budismo
+:religion-Budismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Budismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Hinduísmo
+:religion-Hinduísmo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Hinduísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Judaísmo
+:religion-Judaísmo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Judaísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Islamismo
+:religion-Islamismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Islamismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Xintoísmo
+:religion-Xintoísmo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Xintoísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Fé_Baháí
+:religion-Fé_Baháí rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Fé Bahá'í"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Ateísmo
+:religion-Ateísmo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Ateísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Candomblé
+:religion-Candomblé rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Candomblé"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Taoísmo
+:religion-Taoísmo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Taoísmo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Espiritismo
+:religion-Espiritismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Espiritismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Paganismo
+:religion-Paganismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Paganismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Protestantismo
+:religion-Protestantismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Protestantismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Testemunhas_de_Jeová
+:religion-Testemunhas_de_Jeová rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Testemunhas de Jeová"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Jainismo
+:religion-Jainismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Jainismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Zoroastrismo
+:religion-Zoroastrismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Zoroastrismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Cientologia
+:religion-Cientologia rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Cientologia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Anglicanismo
+:religion-Anglicanismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Anglicanismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#religion-Agnosticismo
+:religion-Agnosticismo rdf:type owl:NamedIndividual ,
+                 :Religion ;
+        :religion "Agnosticismo"^^xsd:string .
+
+            

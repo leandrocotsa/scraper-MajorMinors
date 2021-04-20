@@ -1,0 +1,259 @@
+
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Smart
+:carBrand-Smart rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Smart"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Lada
+:carBrand-Lada rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Lada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Mini
+:carBrand-Mini rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Mini"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Volkswagen
+:carBrand-Volkswagen rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Volkswagen"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Ferrari
+:carBrand-Ferrari rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Ferrari"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Suzuki
+:carBrand-Suzuki rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Suzuki"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Renault
+:carBrand-Renault rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Renault"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Ford
+:carBrand-Ford rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Ford"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-BMW
+:carBrand-BMW rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "BMW"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Peugeot
+:carBrand-Peugeot rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Peugeot"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Jaguar
+:carBrand-Jaguar rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Jaguar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Land_Rover
+:carBrand-Land_Rover rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Land Rover"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Rover
+:carBrand-Rover rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Rover"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Mercedes
+:carBrand-Mercedes rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Mercedes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Nissan
+:carBrand-Nissan rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Nissan"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Saab
+:carBrand-Saab rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Saab"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Audi
+:carBrand-Audi rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Audi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Dacia
+:carBrand-Dacia rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Dacia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Kia
+:carBrand-Kia rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Kia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Porsche
+:carBrand-Porsche rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Porsche"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Mitsubishi
+:carBrand-Mitsubishi rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Mitsubishi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Toyota
+:carBrand-Toyota rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Toyota"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Seat
+:carBrand-Seat rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Seat"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Volvo
+:carBrand-Volvo rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Volvo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Skoda
+:carBrand-Skoda rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Skoda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Fiat
+:carBrand-Fiat rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Fiat"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Cadillac
+:carBrand-Cadillac rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Cadillac"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Maserati
+:carBrand-Maserati rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Maserati"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Aston_Martin
+:carBrand-Aston_Martin rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Aston Martin"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Alfa_Romeo
+:carBrand-Alfa_Romeo rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Alfa Romeo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Honda
+:carBrand-Honda rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Honda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Lamborghini
+:carBrand-Lamborghini rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Lamborghini"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Hyundai
+:carBrand-Hyundai rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Hyundai"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Dodge
+:carBrand-Dodge rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Dodge"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Jeep
+:carBrand-Jeep rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Jeep"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Tata
+:carBrand-Tata rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Tata"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Mazda
+:carBrand-Mazda rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Mazda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Subaru
+:carBrand-Subaru rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Subaru"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Chrysler
+:carBrand-Chrysler rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Chrysler"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Chevrolet
+:carBrand-Chevrolet rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Chevrolet"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Bentley
+:carBrand-Bentley rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Bentley"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Opel
+:carBrand-Opel rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Opel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#carBrand-Geely
+:carBrand-Geely rdf:type owl:NamedIndividual ,
+                 :CarBrand ;
+        :carBrand "Geely"^^xsd:string .
+
+            

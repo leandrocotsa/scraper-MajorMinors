@@ -1,0 +1,127 @@
+
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Africano
+:ethnicity-Africano rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Africano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Judeu
+:ethnicity-Judeu rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Judeu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Cigano
+:ethnicity-Cigano rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Cigano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Armênios
+:ethnicity-Armênios rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Armênios"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Assírios
+:ethnicity-Assírios rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Assírios"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Aborígenes
+:ethnicity-Aborígenes rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Aborígenes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Bretões
+:ethnicity-Bretões rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Bretões"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Asiático
+:ethnicity-Asiático rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Asiático"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Escoceses
+:ethnicity-Escoceses rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Escoceses"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Árabes
+:ethnicity-Árabes rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Árabes"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Fang
+:ethnicity-Fang rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Fang"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Bengalis
+:ethnicity-Bengalis rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Bengalis"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Germanos
+:ethnicity-Germanos rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Germanos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Albaneses
+:ethnicity-Albaneses rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Albaneses"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Aka
+:ethnicity-Aka rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Aka"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Búlgaros
+:ethnicity-Búlgaros rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Búlgaros"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Bascos
+:ethnicity-Bascos rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Bascos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Azeris
+:ethnicity-Azeris rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Azeris"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Gaúcho
+:ethnicity-Gaúcho rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Gaúcho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Apaches
+:ethnicity-Apaches rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Apaches"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#ethnicity-Dinka
+:ethnicity-Dinka rdf:type owl:NamedIndividual ,
+                 :Ethnicity ;
+        :ethnicity "Dinka"^^xsd:string .
+
+            

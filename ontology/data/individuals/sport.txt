@@ -1,0 +1,433 @@
+
+###  http://sparql.ilch.uminho.pt/minors#sport-Futebol
+:sport-Futebol rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Futebol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Orientação
+:sport-Orientação rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Orientação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Pesca
+:sport-Pesca rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Pesca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Golfe
+:sport-Golfe rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Golfe"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Polo
+:sport-Polo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Polo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Tiro
+:sport-Tiro rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Tiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Capoeira
+:sport-Capoeira rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Capoeira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Kempo
+:sport-Kempo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Kempo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Escalada
+:sport-Escalada rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Escalada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Mergulho
+:sport-Mergulho rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Mergulho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Ciclismo
+:sport-Ciclismo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Ciclismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Ténis
+:sport-Ténis rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Ténis"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Xadrez
+:sport-Xadrez rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Xadrez"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Surf
+:sport-Surf rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Surf"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-SURF
+:sport-SURF rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "SURF"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Andebol
+:sport-Andebol rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Andebol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Râguebi
+:sport-Râguebi rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Râguebi"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Malha
+:sport-Malha rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Malha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Esqui
+:sport-Esqui rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Esqui"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Paintball
+:sport-Paintball rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Paintball"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Voleibol
+:sport-Voleibol rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Voleibol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Wrestling
+:sport-Wrestling rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Wrestling"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Futsal
+:sport-Futsal rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Futsal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Esqui_Aquático
+:sport-Esqui_Aquático rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Esqui Aquático"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Atletismo
+:sport-Atletismo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Atletismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Natação
+:sport-Natação rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Natação"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Badminton
+:sport-Badminton rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Badminton"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Patinagem
+:sport-Patinagem rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Patinagem"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Kendo
+:sport-Kendo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Kendo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Boxe
+:sport-Boxe rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Boxe"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Trekking
+:sport-Trekking rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Trekking"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Paddle
+:sport-Paddle rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Paddle"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Skate
+:sport-Skate rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Skate"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Aikido
+:sport-Aikido rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Aikido"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Triatlo
+:sport-Triatlo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Triatlo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Basquetebol
+:sport-Basquetebol rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Basquetebol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Hóquei_em_patins
+:sport-Hóquei_em_patins rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Hóquei em patins"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Snowboard
+:sport-Snowboard rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Snowboard"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Futebol_Americano
+:sport-Futebol_Americano rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Futebol Americano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Motonáutica
+:sport-Motonáutica rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Motonáutica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Windsurf
+:sport-Windsurf rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Windsurf"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Beisebol
+:sport-Beisebol rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Beisebol"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Críquete
+:sport-Críquete rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Críquete"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Triplo_salto
+:sport-Triplo_salto rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Triplo salto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Balonismo
+:sport-Balonismo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Balonismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Bodyboard
+:sport-Bodyboard rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Bodyboard"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Hóquei_em_campo
+:sport-Hóquei_em_campo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Hóquei em campo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Judo
+:sport-Judo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Judo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Salto_em_comprimento
+:sport-Salto_em_comprimento rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Salto em comprimento"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Lançamento_do_dardo
+:sport-Lançamento_do_dardo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Lançamento do dardo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Lançamento_do_disco
+:sport-Lançamento_do_disco rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Lançamento do disco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Canoagem
+:sport-Canoagem rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Canoagem"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Esgrima
+:sport-Esgrima rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Esgrima"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Hipismo
+:sport-Hipismo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Hipismo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Pentatlo_Moderno
+:sport-Pentatlo_Moderno rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Pentatlo Moderno"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Ténis_de_Mesa
+:sport-Ténis_de_Mesa rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Ténis de Mesa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Tiro_com_arco
+:sport-Tiro_com_arco rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Tiro com arco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Lançamento_do_martelo
+:sport-Lançamento_do_martelo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Lançamento do martelo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Salto_em_altura
+:sport-Salto_em_altura rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Salto em altura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Salto_com_vara
+:sport-Salto_com_vara rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Salto com vara"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Corrida_de_velocidade
+:sport-Corrida_de_velocidade rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Corrida de velocidade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Broomball
+:sport-Broomball rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Broomball"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Caça_Submarina
+:sport-Caça_Submarina rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Caça Submarina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Parapente
+:sport-Parapente rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Parapente"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Taekwondo
+:sport-Taekwondo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Taekwondo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Hóquei_no_gelo
+:sport-Hóquei_no_gelo rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Hóquei no gelo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Karaté
+:sport-Karaté rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Karaté"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Columbofilia
+:sport-Columbofilia rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Columbofilia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Kitesurf
+:sport-Kitesurf rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Kitesurf"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Ultimate
+:sport-Ultimate rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Ultimate"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Squash
+:sport-Squash rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Squash"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#sport-Marcha_Atlética
+:sport-Marcha_Atlética rdf:type owl:NamedIndividual ,
+                 :Sport ;
+        :sport "Marcha Atlética"^^xsd:string .
+
+            

@@ -1,0 +1,733 @@
+@prefix : <http://sparql.ilch.uminho.pt/minors#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://sparql.ilch.uminho.pt/minors> .
+
+<http://sparql.ilch.uminho.pt/minors> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://sparql.ilch.uminho.pt/minors#animalReferedBy
+:animalReferedBy rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :referesAnimal .
+
+
+###  http://sparql.ilch.uminho.pt/minors#articleFrom
+:articleFrom rdf:type owl:ObjectProperty ;
+             owl:inverseOf :hasArticle ;
+             rdfs:domain :Article ;
+             rdfs:range :Newspaper .
+
+
+###  http://sparql.ilch.uminho.pt/minors#belongsTo
+:belongsTo rdf:type owl:ObjectProperty ;
+           owl:inverseOf :minorityHasPerson ;
+           rdfs:domain :Person ;
+           rdfs:range :Minority .
+
+
+###  http://sparql.ilch.uminho.pt/minors#cityInCountry
+:cityInCountry rdf:type owl:ObjectProperty ;
+               owl:inverseOf :countryHasCity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#cityReferedBy
+:cityReferedBy rdf:type owl:ObjectProperty ;
+               owl:inverseOf :referesCity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#commentIn
+:commentIn rdf:type owl:ObjectProperty ;
+           owl:inverseOf :hasComment .
+
+
+###  http://sparql.ilch.uminho.pt/minors#continentHasCountry
+:continentHasCountry rdf:type owl:ObjectProperty ;
+                     owl:inverseOf :countryInContinent ;
+                     rdfs:domain :Continent ;
+                     rdfs:range :Country .
+
+
+###  http://sparql.ilch.uminho.pt/minors#continentHasOtherPlace
+:continentHasOtherPlace rdf:type owl:ObjectProperty ;
+                        owl:inverseOf :otherPlaceInContinent ;
+                        rdfs:domain :Continent ;
+                        rdfs:range :OtherPlace .
+
+
+###  http://sparql.ilch.uminho.pt/minors#continetReferedBy
+:continetReferedBy rdf:type owl:ObjectProperty ;
+                   owl:inverseOf :referesContinent .
+
+
+###  http://sparql.ilch.uminho.pt/minors#countryHasCity
+:countryHasCity rdf:type owl:ObjectProperty ;
+                rdfs:domain :Country ;
+                rdfs:range :City .
+
+
+###  http://sparql.ilch.uminho.pt/minors#countryInContinent
+:countryInContinent rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#countryReferedBy
+:countryReferedBy rdf:type owl:ObjectProperty ;
+                  owl:inverseOf :referesCountry .
+
+
+###  http://sparql.ilch.uminho.pt/minors#entityReferedBy
+:entityReferedBy rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :referesEntity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#ethnicityReferedBY
+:ethnicityReferedBY rdf:type owl:ObjectProperty ;
+                    owl:inverseOf :referesEthnicity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#hasArticle
+:hasArticle rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#hasComment
+:hasComment rdf:type owl:ObjectProperty ;
+            rdfs:domain :Article ;
+            rdfs:range :Comment .
+
+
+###  http://sparql.ilch.uminho.pt/minors#hasImage
+:hasImage rdf:type owl:ObjectProperty ;
+          owl:inverseOf :imageIn ;
+          rdfs:domain :Article ;
+          rdfs:range :Image .
+
+
+###  http://sparql.ilch.uminho.pt/minors#hasJob
+:hasJob rdf:type owl:ObjectProperty ;
+        owl:inverseOf :jobDoneBy ;
+        rdfs:domain :Person ;
+        rdfs:range :Job .
+
+
+###  http://sparql.ilch.uminho.pt/minors#hasPriority
+:hasPriority rdf:type owl:ObjectProperty ;
+             rdfs:domain :Article ;
+             rdfs:range :Priority .
+
+
+###  http://sparql.ilch.uminho.pt/minors#imageIn
+:imageIn rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#jobDoneBy
+:jobDoneBy rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#jobReferedBy
+:jobReferedBy rdf:type owl:ObjectProperty ;
+              owl:inverseOf :referesJob .
+
+
+###  http://sparql.ilch.uminho.pt/minors#keywordAssociatedToMinority
+:keywordAssociatedToMinority rdf:type owl:ObjectProperty ;
+                             owl:inverseOf :minorityAssociatedToKeyword .
+
+
+###  http://sparql.ilch.uminho.pt/minors#keywordReferedBy
+:keywordReferedBy rdf:type owl:ObjectProperty ;
+                  owl:inverseOf :referesKeyword .
+
+
+###  http://sparql.ilch.uminho.pt/minors#minorityAssociatedToKeyword
+:minorityAssociatedToKeyword rdf:type owl:ObjectProperty ;
+                             rdfs:domain :Minority ;
+                             rdfs:range :Keyword .
+
+
+###  http://sparql.ilch.uminho.pt/minors#minorityHasPerson
+:minorityHasPerson rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#minorityReferedBy
+:minorityReferedBy rdf:type owl:ObjectProperty ;
+                   owl:inverseOf :referesMinority .
+
+
+###  http://sparql.ilch.uminho.pt/minors#monthReferedBy
+:monthReferedBy rdf:type owl:ObjectProperty ;
+                owl:inverseOf :referesMonth .
+
+
+###  http://sparql.ilch.uminho.pt/minors#otherPlaceInContinent
+:otherPlaceInContinent rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#otherPlaceReferedBy
+:otherPlaceReferedBy rdf:type owl:ObjectProperty ;
+                     owl:inverseOf :referesOtherPlace .
+
+
+###  http://sparql.ilch.uminho.pt/minors#personReferedBy
+:personReferedBy rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :referesPerson .
+
+
+###  http://sparql.ilch.uminho.pt/minors#placeReferedBy
+:placeReferedBy rdf:type owl:ObjectProperty ;
+                owl:inverseOf :referesPlace .
+
+
+###  http://sparql.ilch.uminho.pt/minors#politicalPartyReferedBy
+:politicalPartyReferedBy rdf:type owl:ObjectProperty ;
+                         owl:inverseOf :referesPoliticalParty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesAnimal
+:referesAnimal rdf:type owl:ObjectProperty ;
+               rdfs:domain :Article ;
+               rdfs:range :Animal .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesCity
+:referesCity rdf:type owl:ObjectProperty ;
+             rdfs:domain :Article ;
+             rdfs:range :City .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesContinent
+:referesContinent rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Article ;
+                  rdfs:range :Continent .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesCountry
+:referesCountry rdf:type owl:ObjectProperty ;
+                rdfs:domain :Article ;
+                rdfs:range :Country .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesEntity
+:referesEntity rdf:type owl:ObjectProperty ;
+               rdfs:domain :Article ;
+               rdfs:range :Entity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesEthnicity
+:referesEthnicity rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Article ;
+                  rdfs:range :Ethnicity .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesJob
+:referesJob rdf:type owl:ObjectProperty ;
+            rdfs:domain :Article ;
+            rdfs:range :Job .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesKeyword
+:referesKeyword rdf:type owl:ObjectProperty ;
+                rdfs:domain :Article ;
+                rdfs:range :Keyword .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesMinority
+:referesMinority rdf:type owl:ObjectProperty ;
+                 rdfs:domain :Article ;
+                 rdfs:range :Minority .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesMonth
+:referesMonth rdf:type owl:ObjectProperty ;
+              rdfs:domain :Article ;
+              rdfs:range :Month .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesOtherPlace
+:referesOtherPlace rdf:type owl:ObjectProperty ;
+                   rdfs:domain :Article ;
+                   rdfs:range :OtherPlace .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesPerson
+:referesPerson rdf:type owl:ObjectProperty ;
+               rdfs:domain :Article ;
+               rdfs:range :Person .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesPlace
+:referesPlace rdf:type owl:ObjectProperty ;
+              rdfs:domain :Article ;
+              rdfs:range :Place .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesPoliticalParty
+:referesPoliticalParty rdf:type owl:ObjectProperty ;
+                       rdfs:domain :Article ;
+                       rdfs:range :PoliticalParty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesReligion
+:referesReligion rdf:type owl:ObjectProperty ;
+                 owl:inverseOf :religionReferedBy ;
+                 rdfs:domain :Article ;
+                 rdfs:range :Religion .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesTag
+:referesTag rdf:type owl:ObjectProperty ;
+            owl:inverseOf :tagReferedBy ;
+            rdfs:domain :Article ;
+            rdfs:range :Tag .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesTime
+:referesTime rdf:type owl:ObjectProperty ;
+             owl:inverseOf :timeReferedBy ;
+             rdfs:domain :Article ;
+             rdfs:range :Time .
+
+
+###  http://sparql.ilch.uminho.pt/minors#referesWeek
+:referesWeek rdf:type owl:ObjectProperty ;
+             owl:inverseOf :weekReferedBy ;
+             rdfs:domain :Article ;
+             rdfs:range :Weekday .
+
+
+###  http://sparql.ilch.uminho.pt/minors#religionReferedBy
+:religionReferedBy rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#tagReferedBy
+:tagReferedBy rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#timeReferedBy
+:timeReferedBy rdf:type owl:ObjectProperty .
+
+
+###  http://sparql.ilch.uminho.pt/minors#weekReferedBy
+:weekReferedBy rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://sparql.ilch.uminho.pt/minors#animal
+:animal rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Animal ;
+        rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#author
+:author rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Article ;
+        rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#city
+:city rdf:type owl:DatatypeProperty ;
+      rdfs:domain :City ;
+      rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#comment
+:comment rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Comment ;
+         rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#commentDate
+:commentDate rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Comment ;
+             rdfs:range xsd:dateTime .
+
+
+###  http://sparql.ilch.uminho.pt/minors#continent
+:continent rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Continent ;
+           rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#country
+:country rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Country ;
+         rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#dataPub
+:dataPub rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Article ;
+         rdfs:range xsd:dateTime .
+
+
+###  http://sparql.ilch.uminho.pt/minors#dateBirth
+:dateBirth rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Person ;
+           rdfs:range xsd:dateTime .
+
+
+###  http://sparql.ilch.uminho.pt/minors#entity
+:entity rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Entity ;
+        rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#ethnicity
+:ethnicity rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Ethnicity ;
+           rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#fileName
+:fileName rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Article ;
+          rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#gender
+:gender rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Person ;
+        rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#imageFileName
+:imageFileName rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Image ;
+               rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#imageLink
+:imageLink rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Image ;
+           rdfs:range xsd:anyURI .
+
+
+###  http://sparql.ilch.uminho.pt/minors#job
+:job rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Job ;
+     rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#keyword
+:keyword rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Keyword ;
+         rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#link
+:link rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Article ;
+      rdfs:range xsd:anyURI .
+
+
+###  http://sparql.ilch.uminho.pt/minors#minority
+:minority rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Minority ;
+          rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#month
+:month rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Month ;
+       rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#newspaperHomepage
+:newspaperHomepage rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :Newspaper ;
+                   rdfs:range xsd:anyURI .
+
+
+###  http://sparql.ilch.uminho.pt/minors#newspaperName
+:newspaperName rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Newspaper ;
+               rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#otherPlace
+:otherPlace rdf:type owl:DatatypeProperty ;
+            rdfs:domain :OtherPlace ;
+            rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#personName
+:personName rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Person ;
+            rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#politicalParty
+:politicalParty rdf:type owl:DatatypeProperty ;
+                rdfs:domain :PoliticalParty ;
+                rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#preview
+:preview rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Article ;
+         rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#priority
+:priority rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf owl:topDataProperty ;
+          rdfs:domain :Minority ;
+          rdfs:range xsd:integer .
+
+
+###  http://sparql.ilch.uminho.pt/minors#religion
+:religion rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Religion ;
+          rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#sentimentAnalysis
+:sentimentAnalysis rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :Article ;
+                   rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#subTittle
+:subTittle rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Article ;
+           rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#tag
+:tag rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Tag ;
+     rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#text
+:text rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Article ;
+      rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#title
+:title rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Article ;
+       rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#weekday
+:weekday rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Weekday ;
+         rdfs:range xsd:string .
+
+
+###  http://sparql.ilch.uminho.pt/minors#wikiPage
+:wikiPage rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Person ;
+          rdfs:range xsd:anyURI .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://sparql.ilch.uminho.pt/minors#Animal
+:Animal rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Article
+:Article rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#City
+:City rdf:type owl:Class ;
+      rdfs:subClassOf :Place .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Comment
+:Comment rdf:type owl:Class ;
+         rdfs:subClassOf :Article .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Continent
+:Continent rdf:type owl:Class ;
+           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                 owl:onProperty :continent ;
+                                 owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                      owl:oneOf [ rdf:type rdf:List ;
+                                                                  rdf:first "América" ;
+                                                                  rdf:rest [ rdf:type rdf:List ;
+                                                                             rdf:first "Antártida" ;
+                                                                             rdf:rest [ rdf:type rdf:List ;
+                                                                                        rdf:first "Europa" ;
+                                                                                        rdf:rest [ rdf:type rdf:List ;
+                                                                                                   rdf:first "Oceania" ;
+                                                                                                   rdf:rest [ rdf:type rdf:List ;
+                                                                                                              rdf:first "África" ;
+                                                                                                              rdf:rest [ rdf:type rdf:List ;
+                                                                                                                         rdf:first "Ásia" ;
+                                                                                                                         rdf:rest rdf:nil
+                                                                                                                       ]
+                                                                                                            ]
+                                                                                                 ]
+                                                                                      ]
+                                                                           ]
+                                                                ]
+                                                    ]
+                               ] ;
+           rdfs:subClassOf :Place .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Country
+:Country rdf:type owl:Class ;
+         rdfs:subClassOf :Place .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Entity
+:Entity rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Ethnicity
+:Ethnicity rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Image
+:Image rdf:type owl:Class ;
+       rdfs:subClassOf :Article .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Job
+:Job rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Keyword
+:Keyword rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Minority
+:Minority rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Month
+:Month rdf:type owl:Class ;
+       owl:equivalentClass [ rdf:type owl:Restriction ;
+                             owl:onProperty :month ;
+                             owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                  owl:oneOf [ rdf:type rdf:List ;
+                                                              rdf:first "Abril" ;
+                                                              rdf:rest [ rdf:type rdf:List ;
+                                                                         rdf:first "Agosto" ;
+                                                                         rdf:rest [ rdf:type rdf:List ;
+                                                                                    rdf:first "Dezembro" ;
+                                                                                    rdf:rest [ rdf:type rdf:List ;
+                                                                                               rdf:first "Fevereiro" ;
+                                                                                               rdf:rest [ rdf:type rdf:List ;
+                                                                                                          rdf:first "Janeiro" ;
+                                                                                                          rdf:rest [ rdf:type rdf:List ;
+                                                                                                                     rdf:first "Julho" ;
+                                                                                                                     rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                rdf:first "Junho" ;
+                                                                                                                                rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                           rdf:first "Maio" ;
+                                                                                                                                           rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                                      rdf:first "Março" ;
+                                                                                                                                                      rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                                                 rdf:first "Novembro" ;
+                                                                                                                                                                 rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                                                            rdf:first "Outubro" ;
+                                                                                                                                                                            rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                                                                       rdf:first "Setembro" ;
+                                                                                                                                                                                       rdf:rest rdf:nil
+                                                                                                                                                                                     ]
+                                                                                                                                                                          ]
+                                                                                                                                                               ]
+                                                                                                                                                    ]
+                                                                                                                                         ]
+                                                                                                                              ]
+                                                                                                                   ]
+                                                                                                        ]
+                                                                                             ]
+                                                                                  ]
+                                                                       ]
+                                                            ]
+                                                ]
+                           ] ;
+       rdfs:subClassOf :Time .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Newspaper
+:Newspaper rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#OtherPlace
+:OtherPlace rdf:type owl:Class ;
+            rdfs:subClassOf :Place .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Person
+:Person rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Place
+:Place rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#PoliticalParty
+:PoliticalParty rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Priority
+:Priority rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Religion
+:Religion rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Tag
+:Tag rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Time
+:Time rdf:type owl:Class .
+
+
+###  http://sparql.ilch.uminho.pt/minors#Weekday
+:Weekday rdf:type owl:Class ;
+         owl:equivalentClass [ rdf:type owl:Restriction ;
+                               owl:onProperty :weekday ;
+                               owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                    owl:oneOf [ rdf:type rdf:List ;
+                                                                rdf:first "domingo" ;
+                                                                rdf:rest [ rdf:type rdf:List ;
+                                                                           rdf:first "quarta-feira" ;
+                                                                           rdf:rest [ rdf:type rdf:List ;
+                                                                                      rdf:first "quinta-feira" ;
+                                                                                      rdf:rest [ rdf:type rdf:List ;
+                                                                                                 rdf:first "segunda-feira" ;
+                                                                                                 rdf:rest [ rdf:type rdf:List ;
+                                                                                                            rdf:first "sexta-feira" ;
+                                                                                                            rdf:rest [ rdf:type rdf:List ;
+                                                                                                                       rdf:first "sábado" ;
+                                                                                                                       rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                  rdf:first "terça-feira" ;
+                                                                                                                                  rdf:rest rdf:nil
+                                                                                                                                ]
+                                                                                                                     ]
+                                                                                                          ]
+                                                                                               ]
+                                                                                    ]
+                                                                         ]
+                                                              ]
+                                                  ]
+                             ] ;
+         rdfs:subClassOf :Time .
+
+
+#################################################################
+#    Individuals
+#################################################################
+

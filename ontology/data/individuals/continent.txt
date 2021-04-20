@@ -1,0 +1,37 @@
+
+###  http://sparql.ilch.uminho.pt/minors#continent-Europa
+:continent-Europa rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "Europa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#continent-América
+:continent-América rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "América"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#continent-Ásia
+:continent-Ásia rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "Ásia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#continent-África
+:continent-África rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "África"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#continent-Oceania
+:continent-Oceania rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "Oceania"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#continent-Antártida
+:continent-Antártida rdf:type owl:NamedIndividual ,
+                 :Continent ;
+        :continent "Antártida"^^xsd:string .
+
+            

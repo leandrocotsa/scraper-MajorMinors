@@ -1,0 +1,1069 @@
+
+###  http://sparql.ilch.uminho.pt/minors#country-México
+:country-México rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "México"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Portugal
+:country-Portugal rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Portugal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Cazaquistão
+:country-Cazaquistão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Cazaquistão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Hungria
+:country-Hungria rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Hungria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Alemanha
+:country-Alemanha rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Alemanha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-França
+:country-França rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "França"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-República_CentroAfricana
+:country-República_CentroAfricana rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "República Centro-Africana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Paquistão
+:country-Paquistão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Paquistão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Reino_Unido
+:country-Reino_Unido rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Reino Unido"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Butão
+:country-Butão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Butão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bélgica
+:country-Bélgica rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bélgica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Canadá
+:country-Canadá rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Canadá"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-China
+:country-China rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "China"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Estados_Unidos
+:country-Estados_Unidos rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Estados Unidos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Finlândia
+:country-Finlândia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Finlândia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Grécia
+:country-Grécia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Grécia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Japão
+:country-Japão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Japão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Nepal
+:country-Nepal rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Nepal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Noruega
+:country-Noruega rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Noruega"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Suécia
+:country-Suécia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Suécia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Índia
+:country-Índia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Índia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Arábia_Saudita
+:country-Arábia_Saudita rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Arábia Saudita"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Irão
+:country-Irão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Irão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Iémen
+:country-Iémen rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Iémen"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Síria
+:country-Síria rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Síria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Uruguai
+:country-Uruguai rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Uruguai"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-África_do_Sul
+:country-África_do_Sul rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "África do Sul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Brasil
+:country-Brasil rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Brasil"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Espanha
+:country-Espanha rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Espanha"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Afeganistão
+:country-Afeganistão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Afeganistão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Iraque
+:country-Iraque rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Iraque"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Rússia
+:country-Rússia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Rússia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tajiquistão
+:country-Tajiquistão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tajiquistão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Argélia
+:country-Argélia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Argélia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Itália
+:country-Itália rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Itália"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Malta
+:country-Malta rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Malta"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tunísia
+:country-Tunísia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tunísia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Macedónia
+:country-Macedónia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Macedónia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Croácia
+:country-Croácia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Croácia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Eslovénia
+:country-Eslovénia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Eslovénia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Somália
+:country-Somália rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Somália"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Sérvia
+:country-Sérvia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Sérvia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Áustria
+:country-Áustria rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Áustria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Albânia
+:country-Albânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Albânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Montenegro
+:country-Montenegro rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Montenegro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Turquia
+:country-Turquia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Turquia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Líbia
+:country-Líbia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Líbia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Colômbia
+:country-Colômbia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Colômbia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Peru
+:country-Peru rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Peru"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Jordânia
+:country-Jordânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Jordânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Mali
+:country-Mali rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Mali"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Níger
+:country-Níger rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Níger"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Sudão
+:country-Sudão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Sudão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Filipinas
+:country-Filipinas rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Filipinas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Luxemburgo
+:country-Luxemburgo rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Luxemburgo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Nigéria
+:country-Nigéria rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Nigéria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Dinamarca
+:country-Dinamarca rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Dinamarca"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Vaticano
+:country-Vaticano rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Vaticano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Israel
+:country-Israel rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Israel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Angola
+:country-Angola rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Angola"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Guiné
+:country-Guiné rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Guiné"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-GuinéBissau
+:country-GuinéBissau rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Guiné-Bissau"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Libéria
+:country-Libéria rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Libéria"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Moçambique
+:country-Moçambique rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Moçambique"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tanzânia
+:country-Tanzânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tanzânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Suíça
+:country-Suíça rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Suíça"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Austrália
+:country-Austrália rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Austrália"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Fiji
+:country-Fiji rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Fiji"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Nova_Zelândia
+:country-Nova_Zelândia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Nova Zelândia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Vanuatu
+:country-Vanuatu rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Vanuatu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-República_Democrática_do_Congo
+:country-República_Democrática_do_Congo rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "República Democrática do Congo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Sudão_do_Sul
+:country-Sudão_do_Sul rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Sudão do Sul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Camboja
+:country-Camboja rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Camboja"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Indonésia
+:country-Indonésia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Indonésia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Nauru
+:country-Nauru rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Nauru"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Camarões
+:country-Camarões rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Camarões"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Chade
+:country-Chade rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Chade"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Ucrânia
+:country-Ucrânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Ucrânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Cuba
+:country-Cuba rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Cuba"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Polónia
+:country-Polónia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Polónia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-TimorLeste
+:country-TimorLeste rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Timor-Leste"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Argentina
+:country-Argentina rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Argentina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Chile
+:country-Chile rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Chile"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Líbano
+:country-Líbano rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Líbano"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Marrocos
+:country-Marrocos rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Marrocos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Omã
+:country-Omã rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Omã"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bulgária
+:country-Bulgária rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bulgária"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Estónia
+:country-Estónia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Estónia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Letónia
+:country-Letónia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Letónia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Lituânia
+:country-Lituânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Lituânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Roménia
+:country-Roménia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Roménia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Madagáscar
+:country-Madagáscar rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Madagáscar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Geórgia
+:country-Geórgia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Geórgia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Moldávia
+:country-Moldávia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Moldávia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Cabo_Verde
+:country-Cabo_Verde rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Cabo Verde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Países_Baixos
+:country-Países_Baixos rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Países Baixos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Coreia_do_Sul
+:country-Coreia_do_Sul rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Coreia do Sul"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Singapura
+:country-Singapura rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Singapura"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Catar
+:country-Catar rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Catar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Salomão
+:country-Salomão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Salomão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Jamaica
+:country-Jamaica rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Jamaica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Panamá
+:country-Panamá rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Panamá"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Venezuela
+:country-Venezuela rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Venezuela"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Serra_Leoa
+:country-Serra_Leoa rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Serra Leoa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Gana
+:country-Gana rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Gana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Salvador
+:country-Salvador rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Salvador"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Paraguai
+:country-Paraguai rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Paraguai"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Coreia_do_Norte
+:country-Coreia_do_Norte rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Coreia do Norte"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Malásia
+:country-Malásia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Malásia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Vietname
+:country-Vietname rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Vietname"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Irlanda
+:country-Irlanda rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Irlanda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Islândia
+:country-Islândia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Islândia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Honduras
+:country-Honduras rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Honduras"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Equador
+:country-Equador rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Equador"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Azerbaijão
+:country-Azerbaijão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Azerbaijão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Eritreia
+:country-Eritreia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Eritreia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Eslováquia
+:country-Eslováquia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Eslováquia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-República_Checa
+:country-República_Checa rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "República Checa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Costa_do_Marfim
+:country-Costa_do_Marfim rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Costa do Marfim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Etiópia
+:country-Etiópia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Etiópia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Haiti
+:country-Haiti rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Haiti"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Ruanda
+:country-Ruanda rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Ruanda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Mónaco
+:country-Mónaco rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Mónaco"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Chipre
+:country-Chipre rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Chipre"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Guatemala
+:country-Guatemala rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Guatemala"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-República_Dominicana
+:country-República_Dominicana rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "República Dominicana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Gabão
+:country-Gabão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Gabão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Guiné_Equatorial
+:country-Guiné_Equatorial rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Guiné Equatorial"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tailândia
+:country-Tailândia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tailândia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Mongólia
+:country-Mongólia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Mongólia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Benim
+:country-Benim rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Benim"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Mauritânia
+:country-Mauritânia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Mauritânia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Senegal
+:country-Senegal rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Senegal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Belize
+:country-Belize rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Belize"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Nicarágua
+:country-Nicarágua rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Nicarágua"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Egito
+:country-Egito rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Egito"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Quénia
+:country-Quénia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Quénia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Uganda
+:country-Uganda rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Uganda"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-São_Tomé_e_Príncipe
+:country-São_Tomé_e_Príncipe rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "São Tomé e Príncipe"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tonga
+:country-Tonga rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tonga"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bolívia
+:country-Bolívia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bolívia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Granada
+:country-Granada rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Granada"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Trindade_e_Tobago
+:country-Trindade_e_Tobago rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Trindade e Tobago"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Arménia
+:country-Arménia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Arménia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bielorrússia
+:country-Bielorrússia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bielorrússia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Costa_Rica
+:country-Costa_Rica rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Costa Rica"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Guiana
+:country-Guiana rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Guiana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Papua_Nova_Guiné
+:country-Papua_Nova_Guiné rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Papua Nova Guiné"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Namíbia
+:country-Namíbia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Namíbia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Emirados_Árabes_Unidos
+:country-Emirados_Árabes_Unidos rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Emirados Árabes Unidos"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Maldivas
+:country-Maldivas rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Maldivas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Quirguistão
+:country-Quirguistão rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Quirguistão"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bahamas
+:country-Bahamas rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bahamas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Lesoto
+:country-Lesoto rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Lesoto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Andorra
+:country-Andorra rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Andorra"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-CongoBrazzaville
+:country-CongoBrazzaville rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Congo-Brazzaville"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Palau
+:country-Palau rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Palau"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Togo
+:country-Togo rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Togo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Bósnia_e_Herzegovina
+:country-Bósnia_e_Herzegovina rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Bósnia e Herzegovina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Zâmbia
+:country-Zâmbia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Zâmbia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Barbados
+:country-Barbados rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Barbados"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Seicheles
+:country-Seicheles rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Seicheles"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Tuvalu
+:country-Tuvalu rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Tuvalu"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Gâmbia
+:country-Gâmbia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Gâmbia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Mianmar
+:country-Mianmar rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Mianmar"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Suazilândia
+:country-Suazilândia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Suazilândia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Maurícia
+:country-Maurícia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Maurícia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Samoa
+:country-Samoa rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Samoa"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Brunei
+:country-Brunei rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Brunei"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Comores
+:country-Comores rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Comores"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Suriname
+:country-Suriname rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Suriname"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-São_Vicente_e_Granadinas
+:country-São_Vicente_e_Granadinas rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "São Vicente e Granadinas"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Burquina_Faso
+:country-Burquina_Faso rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Burquina Faso"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Estado_da_Palestina
+:country-Estado_da_Palestina rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Estado da Palestina"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Barém
+:country-Barém rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Barém"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Santa_Lúcia
+:country-Santa_Lúcia rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Santa Lúcia"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Botsuana
+:country-Botsuana rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Botsuana"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#country-Dominica
+:country-Dominica rdf:type owl:NamedIndividual ,
+                 :Country ;
+        :country "Dominica"^^xsd:string .
+
+            

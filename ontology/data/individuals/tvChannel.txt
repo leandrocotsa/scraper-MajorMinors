@@ -1,0 +1,379 @@
+
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TVI
+:tvChannel-TVI rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TVI"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Deutsche_Welle
+:tvChannel-Deutsche_Welle rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Deutsche Welle"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Arte
+:tvChannel-Arte rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Arte"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Bloomberg
+:tvChannel-Bloomberg rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Bloomberg"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-AMC
+:tvChannel-AMC rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "AMC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-AXN
+:tvChannel-AXN rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "AXN"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Fox_Life
+:tvChannel-Fox_Life rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Fox Life"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC
+:tvChannel-SIC rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-CNN
+:tvChannel-CNN rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "CNN"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TVI24
+:tvChannel-TVI24 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TVI24"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_1
+:tvChannel-RTP_1 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP 1"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_Internacional
+:tvChannel-RTP_Internacional rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP Internacional"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_África
+:tvChannel-RTP_África rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP África"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Biggs
+:tvChannel-Biggs rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Biggs"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-EuroSport
+:tvChannel-EuroSport rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "EuroSport"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Euronews
+:tvChannel-Euronews rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Euronews"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTL
+:tvChannel-RTL rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTL"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Fox_News
+:tvChannel-Fox_News rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Fox News"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-France_24
+:tvChannel-France_24 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "France 24"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Venus
+:tvChannel-Venus rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Venus"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP3
+:tvChannel-RTP3 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP3"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Fox_Crime
+:tvChannel-Fox_Crime rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Fox Crime"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Fox_Comedy
+:tvChannel-Fox_Comedy rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Fox Comedy"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Syfy
+:tvChannel-Syfy rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Syfy"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TV5_Monde
+:tvChannel-TV5_Monde rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TV5 Monde"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Cartoon_Network
+:tvChannel-Cartoon_Network rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Cartoon Network"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Sky_News
+:tvChannel-Sky_News rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Sky News"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC_Notícias
+:tvChannel-SIC_Notícias rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC Notícias"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP2
+:tvChannel-RTP2 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP2"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Boomerang
+:tvChannel-Boomerang rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Boomerang"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-CNBC
+:tvChannel-CNBC rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "CNBC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Fox_Portugal
+:tvChannel-Fox_Portugal rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Fox Portugal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Mezzo
+:tvChannel-Mezzo rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Mezzo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Nickelodeon
+:tvChannel-Nickelodeon rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Nickelodeon"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Discovery_Channel
+:tvChannel-Discovery_Channel rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Discovery Channel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Russia_Today
+:tvChannel-Russia_Today rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Russia Today"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC_Radical
+:tvChannel-SIC_Radical rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC Radical"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-24_Kitchen
+:tvChannel-24_Kitchen rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "24 Kitchen"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-CMTV
+:tvChannel-CMTV rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "CMTV"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Canal_Q
+:tvChannel-Canal_Q rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Canal Q"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC_Mulher
+:tvChannel-SIC_Mulher rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC Mulher"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC_Internacional
+:tvChannel-SIC_Internacional rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC Internacional"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_2
+:tvChannel-RTP_2 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP 2"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Canal_Hollywood
+:tvChannel-Canal_Hollywood rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Canal Hollywood"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-AXN_Black
+:tvChannel-AXN_Black rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "AXN Black"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-AXN_White
+:tvChannel-AXN_White rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "AXN White"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Cinemundo
+:tvChannel-Cinemundo rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Cinemundo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-CGTN
+:tvChannel-CGTN rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "CGTN"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_Açores
+:tvChannel-RTP_Açores rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP Açores"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_Madeira
+:tvChannel-RTP_Madeira rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP Madeira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TVI_África
+:tvChannel-TVI_África rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TVI África"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TVI_Internacional
+:tvChannel-TVI_Internacional rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TVI Internacional"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-National_Geographic_Channel
+:tvChannel-National_Geographic_Channel rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "National Geographic Channel"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-RTP_Memória
+:tvChannel-RTP_Memória rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "RTP Memória"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TLC
+:tvChannel-TLC rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TLC"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Porto_Canal
+:tvChannel-Porto_Canal rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Porto Canal"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-SIC_Caras
+:tvChannel-SIC_Caras rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "SIC Caras"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-TPA_Internacional
+:tvChannel-TPA_Internacional rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "TPA Internacional"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Correio_da_Manhã_TV
+:tvChannel-Correio_da_Manhã_TV rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Correio da Manhã TV"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-M6
+:tvChannel-M6 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "M6"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Canal_180
+:tvChannel-Canal_180 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Canal 180"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-VH1
+:tvChannel-VH1 rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "VH1"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#tvChannel-Caça_e_Pesca
+:tvChannel-Caça_e_Pesca rdf:type owl:NamedIndividual ,
+                 :TvChannel ;
+        :tvChannel "Caça e Pesca"^^xsd:string .
+
+            

@@ -1,0 +1,43 @@
+
+###  http://sparql.ilch.uminho.pt/minors#weekday-domingo
+:weekday-domingo rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "domingo"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-sextafeira
+:weekday-sextafeira rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "sexta-feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-segundafeira
+:weekday-segundafeira rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "segunda-feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-terçafeira
+:weekday-terçafeira rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "terça-feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-quartafeira
+:weekday-quartafeira rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "quarta-feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-quintafeira
+:weekday-quintafeira rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "quinta-feira"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#weekday-sábado
+:weekday-sábado rdf:type owl:NamedIndividual ,
+                 :Weekday ;
+        :weekday "sábado"^^xsd:string .
+
+            

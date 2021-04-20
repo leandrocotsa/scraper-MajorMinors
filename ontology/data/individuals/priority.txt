@@ -1,0 +1,667 @@
+
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-6
+:priority-refugiados-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-2
+:priority-animais-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-6
+:priority-migrantes-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-7
+:priority-mulheres-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-2
+:priority-africanos-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-2
+:priority-migrantes-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-10
+:priority-africanos-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-2
+:priority-mulheres-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-2
+:priority-asiáticos-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-5
+:priority-africanos-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-5
+:priority-mulheres-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-21
+:priority-mulheres-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-7
+:priority-migrantes-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-11
+:priority-mulheres-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-14
+:priority-ciganos-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-17
+:priority-animais-17 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 17 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-11
+:priority-migrantes-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-3
+:priority-animais-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-6
+:priority-ciganos-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-2
+:priority-homossexuais-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-16
+:priority-migrantes-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-14
+:priority-refugiados-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-18
+:priority-refugiados-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-6
+:priority-mulheres-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-21
+:priority-migrantes-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-6
+:priority-homossexuais-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-3
+:priority-africanos-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-7
+:priority-africanos-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-17
+:priority-africanos-17 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 17 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-5
+:priority-asiáticos-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-3
+:priority-mulheres-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-14
+:priority-africanos-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-6
+:priority-asiáticos-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-9
+:priority-migrantes-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-9
+:priority-refugiados-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-12
+:priority-mulheres-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-9
+:priority-mulheres-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-21
+:priority-homossexuais-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-6
+:priority-africanos-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-7
+:priority-animais-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-9
+:priority-animais-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-5
+:priority-animais-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-9
+:priority-asiáticos-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-14
+:priority-homossexuais-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-11
+:priority-homossexuais-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-10
+:priority-mulheres-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-18
+:priority-mulheres-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-16
+:priority-mulheres-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-14
+:priority-mulheres-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-15
+:priority-mulheres-15 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 15 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-18
+:priority-animais-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-14
+:priority-animais-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-12
+:priority-animais-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-14
+:priority-migrantes-14 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 14 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-5
+:priority-migrantes-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-13
+:priority-refugiados-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-6
+:priority-animais-6 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 6 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-11
+:priority-refugiados-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-5
+:priority-refugiados-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-21
+:priority-refugiados-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-18
+:priority-migrantes-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-10
+:priority-animais-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-13
+:priority-asiáticos-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-13
+:priority-migrantes-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-3
+:priority-asiáticos-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-18
+:priority-homossexuais-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-13
+:priority-mulheres-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-16
+:priority-homossexuais-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-16
+:priority-refugiados-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-9
+:priority-africanos-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-12
+:priority-africanos-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-11
+:priority-africanos-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-13
+:priority-homossexuais-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-13
+:priority-ciganos-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-9
+:priority-homossexuais-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-2
+:priority-ciganos-2 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 2 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-11
+:priority-ciganos-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-7
+:priority-homossexuais-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-5
+:priority-homossexuais-5 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 5 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-12
+:priority-asiáticos-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-12
+:priority-migrantes-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-13
+:priority-animais-13 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 13 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-16
+:priority-animais-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-3
+:priority-migrantes-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-21
+:priority-animais-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-17
+:priority-mulheres-17 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 17 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-8
+:priority-animais-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-12
+:priority-homossexuais-12 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 12 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-8
+:priority-homossexuais-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-16
+:priority-asiáticos-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-18
+:priority-ciganos-18 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 18 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-8
+:priority-africanos-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-21
+:priority-ciganos-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-animais-11
+:priority-animais-11 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-animais ;
+                     :priority 11 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-mulheres-8
+:priority-mulheres-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-mulheres ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-8
+:priority-refugiados-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-8
+:priority-migrantes-8 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 8 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-17
+:priority-asiáticos-17 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 17 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-21
+:priority-africanos-21 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 21 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-9
+:priority-ciganos-9 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 9 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-10
+:priority-homossexuais-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-16
+:priority-ciganos-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-africanos-16
+:priority-africanos-16 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-africanos ;
+                     :priority 16 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-7
+:priority-refugiados-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-homossexuais-3
+:priority-homossexuais-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-homossexuais ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-migrantes-10
+:priority-migrantes-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-migrantes ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-10
+:priority-asiáticos-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 10 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-refugiados-3
+:priority-refugiados-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-refugiados ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-asiáticos-7
+:priority-asiáticos-7 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-asiáticos ;
+                     :priority 7 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-3
+:priority-ciganos-3 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 3 .
+
+        
+###  http://sparql.ilch.uminho.pt/minors#priority-ciganos-10
+:priority-ciganos-10 rdf:type owl:NamedIndividual ;
+                     :referesMinority :minority-ciganos ;
+                     :priority 10 .
+
+        

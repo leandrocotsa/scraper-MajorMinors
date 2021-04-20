@@ -1,0 +1,73 @@
+
+###  http://sparql.ilch.uminho.pt/minors#month-Maio
+:month-Maio rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Maio"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Dezembro
+:month-Dezembro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Dezembro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Junho
+:month-Junho rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Junho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Outubro
+:month-Outubro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Outubro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Janeiro
+:month-Janeiro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Janeiro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Julho
+:month-Julho rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Julho"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Setembro
+:month-Setembro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Setembro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Abril
+:month-Abril rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Abril"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Março
+:month-Março rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Março"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Agosto
+:month-Agosto rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Agosto"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Novembro
+:month-Novembro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Novembro"^^xsd:string .
+
+            
+###  http://sparql.ilch.uminho.pt/minors#month-Fevereiro
+:month-Fevereiro rdf:type owl:NamedIndividual ,
+                 :Month ;
+        :month "Fevereiro"^^xsd:string .
+
+            
